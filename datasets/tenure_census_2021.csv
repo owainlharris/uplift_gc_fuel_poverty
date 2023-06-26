@@ -1,0 +1,2318 @@
+Lower tier local authorities Code,Lower tier local authorities,Tenure of household (7 categories) Code,Tenure of household (7 categories),Observation
+E06000001,Hartlepool,-8,Does not apply,0
+E06000001,Hartlepool,0,Owned: Owns outright,12761
+E06000001,Hartlepool,1,Owned: Owns with a mortgage or loan or shared ownership,11312
+E06000001,Hartlepool,2,Social rented: Rents from council or Local Authority,3986
+E06000001,Hartlepool,3,Social rented: Other social rented,5608
+E06000001,Hartlepool,4,Private rented: Private landlord or letting agency,6338
+E06000001,Hartlepool,5,Private rented: Other private rented or lives rent free,924
+E06000002,Middlesbrough,-8,Does not apply,0
+E06000002,Middlesbrough,0,Owned: Owns outright,17224
+E06000002,Middlesbrough,1,Owned: Owns with a mortgage or loan or shared ownership,16240
+E06000002,Middlesbrough,2,Social rented: Rents from council or Local Authority,6773
+E06000002,Middlesbrough,3,Social rented: Other social rented,7233
+E06000002,Middlesbrough,4,Private rented: Private landlord or letting agency,11286
+E06000002,Middlesbrough,5,Private rented: Other private rented or lives rent free,1506
+E06000003,Redcar and Cleveland,-8,Does not apply,0
+E06000003,Redcar and Cleveland,0,Owned: Owns outright,22649
+E06000003,Redcar and Cleveland,1,Owned: Owns with a mortgage or loan or shared ownership,17551
+E06000003,Redcar and Cleveland,2,Social rented: Rents from council or Local Authority,5269
+E06000003,Redcar and Cleveland,3,Social rented: Other social rented,6380
+E06000003,Redcar and Cleveland,4,Private rented: Private landlord or letting agency,8410
+E06000003,Redcar and Cleveland,5,Private rented: Other private rented or lives rent free,1379
+E06000004,Stockton-on-Tees,-8,Does not apply,0
+E06000004,Stockton-on-Tees,0,Owned: Owns outright,27726
+E06000004,Stockton-on-Tees,1,Owned: Owns with a mortgage or loan or shared ownership,28071
+E06000004,Stockton-on-Tees,2,Social rented: Rents from council or Local Authority,7204
+E06000004,Stockton-on-Tees,3,Social rented: Other social rented,6469
+E06000004,Stockton-on-Tees,4,Private rented: Private landlord or letting agency,12388
+E06000004,Stockton-on-Tees,5,Private rented: Other private rented or lives rent free,1899
+E06000005,Darlington,-8,Does not apply,0
+E06000005,Darlington,0,Owned: Owns outright,16222
+E06000005,Darlington,1,Owned: Owns with a mortgage or loan or shared ownership,14664
+E06000005,Darlington,2,Social rented: Rents from council or Local Authority,5112
+E06000005,Darlington,3,Social rented: Other social rented,2819
+E06000005,Darlington,4,Private rented: Private landlord or letting agency,9035
+E06000005,Darlington,5,Private rented: Other private rented or lives rent free,1064
+E06000006,Halton,-8,Does not apply,0
+E06000006,Halton,0,Owned: Owns outright,17096
+E06000006,Halton,1,Owned: Owns with a mortgage or loan or shared ownership,17173
+E06000006,Halton,2,Social rented: Rents from council or Local Authority,2898
+E06000006,Halton,3,Social rented: Other social rented,10721
+E06000006,Halton,4,Private rented: Private landlord or letting agency,7088
+E06000006,Halton,5,Private rented: Other private rented or lives rent free,975
+E06000007,Warrington,-8,Does not apply,0
+E06000007,Warrington,0,Owned: Owns outright,31939
+E06000007,Warrington,1,Owned: Owns with a mortgage or loan or shared ownership,30932
+E06000007,Warrington,2,Social rented: Rents from council or Local Authority,4982
+E06000007,Warrington,3,Social rented: Other social rented,8860
+E06000007,Warrington,4,Private rented: Private landlord or letting agency,12193
+E06000007,Warrington,5,Private rented: Other private rented or lives rent free,1632
+E06000008,Blackburn with Darwen,-8,Does not apply,0
+E06000008,Blackburn with Darwen,0,Owned: Owns outright,19573
+E06000008,Blackburn with Darwen,1,Owned: Owns with a mortgage or loan or shared ownership,16266
+E06000008,Blackburn with Darwen,2,Social rented: Rents from council or Local Authority,2718
+E06000008,Blackburn with Darwen,3,Social rented: Other social rented,8313
+E06000008,Blackburn with Darwen,4,Private rented: Private landlord or letting agency,10290
+E06000008,Blackburn with Darwen,5,Private rented: Other private rented or lives rent free,1605
+E06000009,Blackpool,-8,Does not apply,0
+E06000009,Blackpool,0,Owned: Owns outright,20348
+E06000009,Blackpool,1,Owned: Owns with a mortgage or loan or shared ownership,17100
+E06000009,Blackpool,2,Social rented: Rents from council or Local Authority,3947
+E06000009,Blackpool,3,Social rented: Other social rented,2753
+E06000009,Blackpool,4,Private rented: Private landlord or letting agency,18843
+E06000009,Blackpool,5,Private rented: Other private rented or lives rent free,1793
+E06000010,Kingston upon Hull,-8,Does not apply,0
+E06000010,Kingston upon Hull,0,Owned: Owns outright,26695
+E06000010,Kingston upon Hull,1,Owned: Owns with a mortgage or loan or shared ownership,29631
+E06000010,Kingston upon Hull,2,Social rented: Rents from council or Local Authority,21768
+E06000010,Kingston upon Hull,3,Social rented: Other social rented,9399
+E06000010,Kingston upon Hull,4,Private rented: Private landlord or letting agency,25419
+E06000010,Kingston upon Hull,5,Private rented: Other private rented or lives rent free,2563
+E06000011,East Riding of Yorkshire,-8,Does not apply,0
+E06000011,East Riding of Yorkshire,0,Owned: Owns outright,65680
+E06000011,East Riding of Yorkshire,1,Owned: Owns with a mortgage or loan or shared ownership,46152
+E06000011,East Riding of Yorkshire,2,Social rented: Rents from council or Local Authority,10874
+E06000011,East Riding of Yorkshire,3,Social rented: Other social rented,3406
+E06000011,East Riding of Yorkshire,4,Private rented: Private landlord or letting agency,22171
+E06000011,East Riding of Yorkshire,5,Private rented: Other private rented or lives rent free,3783
+E06000012,North East Lincolnshire,-8,Does not apply,0
+E06000012,North East Lincolnshire,0,Owned: Owns outright,24373
+E06000012,North East Lincolnshire,1,Owned: Owns with a mortgage or loan or shared ownership,20568
+E06000012,North East Lincolnshire,2,Social rented: Rents from council or Local Authority,2729
+E06000012,North East Lincolnshire,3,Social rented: Other social rented,6462
+E06000012,North East Lincolnshire,4,Private rented: Private landlord or letting agency,14185
+E06000012,North East Lincolnshire,5,Private rented: Other private rented or lives rent free,1508
+E06000013,North Lincolnshire,-8,Does not apply,0
+E06000013,North Lincolnshire,0,Owned: Owns outright,27829
+E06000013,North Lincolnshire,1,Owned: Owns with a mortgage or loan or shared ownership,21772
+E06000013,North Lincolnshire,2,Social rented: Rents from council or Local Authority,5035
+E06000013,North Lincolnshire,3,Social rented: Other social rented,5918
+E06000013,North Lincolnshire,4,Private rented: Private landlord or letting agency,10929
+E06000013,North Lincolnshire,5,Private rented: Other private rented or lives rent free,1691
+E06000014,York,-8,Does not apply,0
+E06000014,York,0,Owned: Owns outright,31453
+E06000014,York,1,Owned: Owns with a mortgage or loan or shared ownership,24900
+E06000014,York,2,Social rented: Rents from council or Local Authority,7152
+E06000014,York,3,Social rented: Other social rented,4772
+E06000014,York,4,Private rented: Private landlord or letting agency,15209
+E06000014,York,5,Private rented: Other private rented or lives rent free,1973
+E06000015,Derby,-8,Does not apply,0
+E06000015,Derby,0,Owned: Owns outright,33384
+E06000015,Derby,1,Owned: Owns with a mortgage or loan or shared ownership,29775
+E06000015,Derby,2,Social rented: Rents from council or Local Authority,11713
+E06000015,Derby,3,Social rented: Other social rented,8138
+E06000015,Derby,4,Private rented: Private landlord or letting agency,20395
+E06000015,Derby,5,Private rented: Other private rented or lives rent free,2248
+E06000016,Leicester,-8,Does not apply,0
+E06000016,Leicester,0,Owned: Owns outright,31324
+E06000016,Leicester,1,Owned: Owns with a mortgage or loan or shared ownership,28768
+E06000016,Leicester,2,Social rented: Rents from council or Local Authority,18748
+E06000016,Leicester,3,Social rented: Other social rented,10747
+E06000016,Leicester,4,Private rented: Private landlord or letting agency,34549
+E06000016,Leicester,5,Private rented: Other private rented or lives rent free,3252
+E06000017,Rutland,-8,Does not apply,0
+E06000017,Rutland,0,Owned: Owns outright,7286
+E06000017,Rutland,1,Owned: Owns with a mortgage or loan or shared ownership,4788
+E06000017,Rutland,2,Social rented: Rents from council or Local Authority,310
+E06000017,Rutland,3,Social rented: Other social rented,1509
+E06000017,Rutland,4,Private rented: Private landlord or letting agency,2082
+E06000017,Rutland,5,Private rented: Other private rented or lives rent free,716
+E06000018,Nottingham,-8,Does not apply,0
+E06000018,Nottingham,0,Owned: Owns outright,27940
+E06000018,Nottingham,1,Owned: Owns with a mortgage or loan or shared ownership,28986
+E06000018,Nottingham,2,Social rented: Rents from council or Local Authority,22854
+E06000018,Nottingham,3,Social rented: Other social rented,8942
+E06000018,Nottingham,4,Private rented: Private landlord or letting agency,33039
+E06000018,Nottingham,5,Private rented: Other private rented or lives rent free,2984
+E06000019,Herefordshire,-8,Does not apply,0
+E06000019,Herefordshire,0,Owned: Owns outright,35070
+E06000019,Herefordshire,1,Owned: Owns with a mortgage or loan or shared ownership,20809
+E06000019,Herefordshire,2,Social rented: Rents from council or Local Authority,2657
+E06000019,Herefordshire,3,Social rented: Other social rented,8652
+E06000019,Herefordshire,4,Private rented: Private landlord or letting agency,12943
+E06000019,Herefordshire,5,Private rented: Other private rented or lives rent free,2696
+E06000020,Telford and Wrekin,-8,Does not apply,0
+E06000020,Telford and Wrekin,0,Owned: Owns outright,23088
+E06000020,Telford and Wrekin,1,Owned: Owns with a mortgage or loan or shared ownership,23362
+E06000020,Telford and Wrekin,2,Social rented: Rents from council or Local Authority,4966
+E06000020,Telford and Wrekin,3,Social rented: Other social rented,8818
+E06000020,Telford and Wrekin,4,Private rented: Private landlord or letting agency,14694
+E06000020,Telford and Wrekin,5,Private rented: Other private rented or lives rent free,1582
+E06000021,Stoke-on-Trent,-8,Does not apply,0
+E06000021,Stoke-on-Trent,0,Owned: Owns outright,33558
+E06000021,Stoke-on-Trent,1,Owned: Owns with a mortgage or loan or shared ownership,29499
+E06000021,Stoke-on-Trent,2,Social rented: Rents from council or Local Authority,16913
+E06000021,Stoke-on-Trent,3,Social rented: Other social rented,7656
+E06000021,Stoke-on-Trent,4,Private rented: Private landlord or letting agency,20065
+E06000021,Stoke-on-Trent,5,Private rented: Other private rented or lives rent free,2709
+E06000022,Bath and North East Somerset,-8,Does not apply,0
+E06000022,Bath and North East Somerset,0,Owned: Owns outright,28855
+E06000022,Bath and North East Somerset,1,Owned: Owns with a mortgage or loan or shared ownership,23668
+E06000022,Bath and North East Somerset,2,Social rented: Rents from council or Local Authority,3064
+E06000022,Bath and North East Somerset,3,Social rented: Other social rented,8299
+E06000022,Bath and North East Somerset,4,Private rented: Private landlord or letting agency,13758
+E06000022,Bath and North East Somerset,5,Private rented: Other private rented or lives rent free,1606
+E06000023,Bristol,-8,Does not apply,0
+E06000023,Bristol,0,Owned: Owns outright,48199
+E06000023,Bristol,1,Owned: Owns with a mortgage or loan or shared ownership,56877
+E06000023,Bristol,2,Social rented: Rents from council or Local Authority,24977
+E06000023,Bristol,3,Social rented: Other social rented,10902
+E06000023,Bristol,4,Private rented: Private landlord or letting agency,46271
+E06000023,Bristol,5,Private rented: Other private rented or lives rent free,4412
+E06000024,North Somerset,-8,Does not apply,0
+E06000024,North Somerset,0,Owned: Owns outright,37250
+E06000024,North Somerset,1,Owned: Owns with a mortgage or loan or shared ownership,31211
+E06000024,North Somerset,2,Social rented: Rents from council or Local Authority,2003
+E06000024,North Somerset,3,Social rented: Other social rented,6711
+E06000024,North Somerset,4,Private rented: Private landlord or letting agency,15541
+E06000024,North Somerset,5,Private rented: Other private rented or lives rent free,1932
+E06000025,South Gloucestershire,-8,Does not apply,0
+E06000025,South Gloucestershire,0,Owned: Owns outright,43220
+E06000025,South Gloucestershire,1,Owned: Owns with a mortgage or loan or shared ownership,43503
+E06000025,South Gloucestershire,2,Social rented: Rents from council or Local Authority,2122
+E06000025,South Gloucestershire,3,Social rented: Other social rented,10616
+E06000025,South Gloucestershire,4,Private rented: Private landlord or letting agency,16441
+E06000025,South Gloucestershire,5,Private rented: Other private rented or lives rent free,2199
+E06000026,Plymouth,-8,Does not apply,0
+E06000026,Plymouth,0,Owned: Owns outright,33783
+E06000026,Plymouth,1,Owned: Owns with a mortgage or loan or shared ownership,33604
+E06000026,Plymouth,2,Social rented: Rents from council or Local Authority,7386
+E06000026,Plymouth,3,Social rented: Other social rented,13725
+E06000026,Plymouth,4,Private rented: Private landlord or letting agency,22754
+E06000026,Plymouth,5,Private rented: Other private rented or lives rent free,3305
+E06000027,Torbay,-8,Does not apply,0
+E06000027,Torbay,0,Owned: Owns outright,24663
+E06000027,Torbay,1,Owned: Owns with a mortgage or loan or shared ownership,16321
+E06000027,Torbay,2,Social rented: Rents from council or Local Authority,561
+E06000027,Torbay,3,Social rented: Other social rented,4664
+E06000027,Torbay,4,Private rented: Private landlord or letting agency,15195
+E06000027,Torbay,5,Private rented: Other private rented or lives rent free,1588
+E06000030,Swindon,-8,Does not apply,0
+E06000030,Swindon,0,Owned: Owns outright,27968
+E06000030,Swindon,1,Owned: Owns with a mortgage or loan or shared ownership,34278
+E06000030,Swindon,2,Social rented: Rents from council or Local Authority,9786
+E06000030,Swindon,3,Social rented: Other social rented,5158
+E06000030,Swindon,4,Private rented: Private landlord or letting agency,16798
+E06000030,Swindon,5,Private rented: Other private rented or lives rent free,1874
+E06000031,Peterborough,-8,Does not apply,0
+E06000031,Peterborough,0,Owned: Owns outright,22268
+E06000031,Peterborough,1,Owned: Owns with a mortgage or loan or shared ownership,25791
+E06000031,Peterborough,2,Social rented: Rents from council or Local Authority,5009
+E06000031,Peterborough,3,Social rented: Other social rented,10751
+E06000031,Peterborough,4,Private rented: Private landlord or letting agency,18675
+E06000031,Peterborough,5,Private rented: Other private rented or lives rent free,2039
+E06000032,Luton,-8,Does not apply,0
+E06000032,Luton,0,Owned: Owns outright,20296
+E06000032,Luton,1,Owned: Owns with a mortgage or loan or shared ownership,22707
+E06000032,Luton,2,Social rented: Rents from council or Local Authority,8498
+E06000032,Luton,3,Social rented: Other social rented,4425
+E06000032,Luton,4,Private rented: Private landlord or letting agency,21280
+E06000032,Luton,5,Private rented: Other private rented or lives rent free,1733
+E06000033,Southend-on-Sea,-8,Does not apply,0
+E06000033,Southend-on-Sea,0,Owned: Owns outright,24722
+E06000033,Southend-on-Sea,1,Owned: Owns with a mortgage or loan or shared ownership,23804
+E06000033,Southend-on-Sea,2,Social rented: Rents from council or Local Authority,4822
+E06000033,Southend-on-Sea,3,Social rented: Other social rented,4197
+E06000033,Southend-on-Sea,4,Private rented: Private landlord or letting agency,19085
+E06000033,Southend-on-Sea,5,Private rented: Other private rented or lives rent free,1714
+E06000034,Thurrock,-8,Does not apply,0
+E06000034,Thurrock,0,Owned: Owns outright,16912
+E06000034,Thurrock,1,Owned: Owns with a mortgage or loan or shared ownership,25553
+E06000034,Thurrock,2,Social rented: Rents from council or Local Authority,9639
+E06000034,Thurrock,3,Social rented: Other social rented,2094
+E06000034,Thurrock,4,Private rented: Private landlord or letting agency,11015
+E06000034,Thurrock,5,Private rented: Other private rented or lives rent free,1164
+E06000035,Medway,-8,Does not apply,0
+E06000035,Medway,0,Owned: Owns outright,34388
+E06000035,Medway,1,Owned: Owns with a mortgage or loan or shared ownership,39381
+E06000035,Medway,2,Social rented: Rents from council or Local Authority,4553
+E06000035,Medway,3,Social rented: Other social rented,10577
+E06000035,Medway,4,Private rented: Private landlord or letting agency,20219
+E06000035,Medway,5,Private rented: Other private rented or lives rent free,2341
+E06000036,Bracknell Forest,-8,Does not apply,0
+E06000036,Bracknell Forest,0,Owned: Owns outright,14488
+E06000036,Bracknell Forest,1,Owned: Owns with a mortgage or loan or shared ownership,19930
+E06000036,Bracknell Forest,2,Social rented: Rents from council or Local Authority,2507
+E06000036,Bracknell Forest,3,Social rented: Other social rented,5382
+E06000036,Bracknell Forest,4,Private rented: Private landlord or letting agency,6957
+E06000036,Bracknell Forest,5,Private rented: Other private rented or lives rent free,981
+E06000037,West Berkshire,-8,Does not apply,0
+E06000037,West Berkshire,0,Owned: Owns outright,23209
+E06000037,West Berkshire,1,Owned: Owns with a mortgage or loan or shared ownership,22706
+E06000037,West Berkshire,2,Social rented: Rents from council or Local Authority,787
+E06000037,West Berkshire,3,Social rented: Other social rented,8518
+E06000037,West Berkshire,4,Private rented: Private landlord or letting agency,9668
+E06000037,West Berkshire,5,Private rented: Other private rented or lives rent free,1770
+E06000038,Reading,-8,Does not apply,0
+E06000038,Reading,0,Owned: Owns outright,15426
+E06000038,Reading,1,Owned: Owns with a mortgage or loan or shared ownership,19590
+E06000038,Reading,2,Social rented: Rents from council or Local Authority,6145
+E06000038,Reading,3,Social rented: Other social rented,4779
+E06000038,Reading,4,Private rented: Private landlord or letting agency,20373
+E06000038,Reading,5,Private rented: Other private rented or lives rent free,1370
+E06000039,Slough,-8,Does not apply,0
+E06000039,Slough,0,Owned: Owns outright,10215
+E06000039,Slough,1,Owned: Owns with a mortgage or loan or shared ownership,15760
+E06000039,Slough,2,Social rented: Rents from council or Local Authority,6304
+E06000039,Slough,3,Social rented: Other social rented,3962
+E06000039,Slough,4,Private rented: Private landlord or letting agency,15101
+E06000039,Slough,5,Private rented: Other private rented or lives rent free,1082
+E06000040,Windsor and Maidenhead,-8,Does not apply,0
+E06000040,Windsor and Maidenhead,0,Owned: Owns outright,20393
+E06000040,Windsor and Maidenhead,1,Owned: Owns with a mortgage or loan or shared ownership,20308
+E06000040,Windsor and Maidenhead,2,Social rented: Rents from council or Local Authority,705
+E06000040,Windsor and Maidenhead,3,Social rented: Other social rented,6950
+E06000040,Windsor and Maidenhead,4,Private rented: Private landlord or letting agency,10635
+E06000040,Windsor and Maidenhead,5,Private rented: Other private rented or lives rent free,1941
+E06000041,Wokingham,-8,Does not apply,0
+E06000041,Wokingham,0,Owned: Owns outright,24952
+E06000041,Wokingham,1,Owned: Owns with a mortgage or loan or shared ownership,29073
+E06000041,Wokingham,2,Social rented: Rents from council or Local Authority,2844
+E06000041,Wokingham,3,Social rented: Other social rented,2487
+E06000041,Wokingham,4,Private rented: Private landlord or letting agency,8665
+E06000041,Wokingham,5,Private rented: Other private rented or lives rent free,1144
+E06000042,Milton Keynes,-8,Does not apply,0
+E06000042,Milton Keynes,0,Owned: Owns outright,27193
+E06000042,Milton Keynes,1,Owned: Owns with a mortgage or loan or shared ownership,41655
+E06000042,Milton Keynes,2,Social rented: Rents from council or Local Authority,11029
+E06000042,Milton Keynes,3,Social rented: Other social rented,9419
+E06000042,Milton Keynes,4,Private rented: Private landlord or letting agency,21780
+E06000042,Milton Keynes,5,Private rented: Other private rented or lives rent free,2024
+E06000043,Brighton and Hove,-8,Does not apply,0
+E06000043,Brighton and Hove,0,Owned: Owns outright,30444
+E06000043,Brighton and Hove,1,Owned: Owns with a mortgage or loan or shared ownership,32970
+E06000043,Brighton and Hove,2,Social rented: Rents from council or Local Authority,11587
+E06000043,Brighton and Hove,3,Social rented: Other social rented,6464
+E06000043,Brighton and Hove,4,Private rented: Private landlord or letting agency,37167
+E06000043,Brighton and Hove,5,Private rented: Other private rented or lives rent free,2770
+E06000044,Portsmouth,-8,Does not apply,0
+E06000044,Portsmouth,0,Owned: Owns outright,21958
+E06000044,Portsmouth,1,Owned: Owns with a mortgage or loan or shared ownership,23835
+E06000044,Portsmouth,2,Social rented: Rents from council or Local Authority,9394
+E06000044,Portsmouth,3,Social rented: Other social rented,6113
+E06000044,Portsmouth,4,Private rented: Private landlord or letting agency,22196
+E06000044,Portsmouth,5,Private rented: Other private rented or lives rent free,2659
+E06000045,Southampton,-8,Does not apply,0
+E06000045,Southampton,0,Owned: Owns outright,23049
+E06000045,Southampton,1,Owned: Owns with a mortgage or loan or shared ownership,26851
+E06000045,Southampton,2,Social rented: Rents from council or Local Authority,14958
+E06000045,Southampton,3,Social rented: Other social rented,7439
+E06000045,Southampton,4,Private rented: Private landlord or letting agency,28063
+E06000045,Southampton,5,Private rented: Other private rented or lives rent free,1931
+E06000046,Isle of Wight,-8,Does not apply,0
+E06000046,Isle of Wight,0,Owned: Owns outright,28737
+E06000046,Isle of Wight,1,Owned: Owns with a mortgage or loan or shared ownership,15592
+E06000046,Isle of Wight,2,Social rented: Rents from council or Local Authority,678
+E06000046,Isle of Wight,3,Social rented: Other social rented,6379
+E06000046,Isle of Wight,4,Private rented: Private landlord or letting agency,11731
+E06000046,Isle of Wight,5,Private rented: Other private rented or lives rent free,1658
+E06000047,County Durham,-8,Does not apply,0
+E06000047,County Durham,0,Owned: Owns outright,81046
+E06000047,County Durham,1,Owned: Owns with a mortgage or loan or shared ownership,66466
+E06000047,County Durham,2,Social rented: Rents from council or Local Authority,21999
+E06000047,County Durham,3,Social rented: Other social rented,24859
+E06000047,County Durham,4,Private rented: Private landlord or letting agency,35156
+E06000047,County Durham,5,Private rented: Other private rented or lives rent free,5235
+E06000049,Cheshire East,-8,Does not apply,0
+E06000049,Cheshire East,0,Owned: Owns outright,69191
+E06000049,Cheshire East,1,Owned: Owns with a mortgage or loan or shared ownership,58227
+E06000049,Cheshire East,2,Social rented: Rents from council or Local Authority,4659
+E06000049,Cheshire East,3,Social rented: Other social rented,15584
+E06000049,Cheshire East,4,Private rented: Private landlord or letting agency,23868
+E06000049,Cheshire East,5,Private rented: Other private rented or lives rent free,3325
+E06000050,Cheshire West and Chester,-8,Does not apply,0
+E06000050,Cheshire West and Chester,0,Owned: Owns outright,57620
+E06000050,Cheshire West and Chester,1,Owned: Owns with a mortgage or loan or shared ownership,50281
+E06000050,Cheshire West and Chester,2,Social rented: Rents from council or Local Authority,9412
+E06000050,Cheshire West and Chester,3,Social rented: Other social rented,13298
+E06000050,Cheshire West and Chester,4,Private rented: Private landlord or letting agency,21291
+E06000050,Cheshire West and Chester,5,Private rented: Other private rented or lives rent free,3252
+E06000051,Shropshire,-8,Does not apply,0
+E06000051,Shropshire,0,Owned: Owns outright,59262
+E06000051,Shropshire,1,Owned: Owns with a mortgage or loan or shared ownership,37692
+E06000051,Shropshire,2,Social rented: Rents from council or Local Authority,5616
+E06000051,Shropshire,3,Social rented: Other social rented,12553
+E06000051,Shropshire,4,Private rented: Private landlord or letting agency,20425
+E06000051,Shropshire,5,Private rented: Other private rented or lives rent free,4031
+E06000052,Cornwall,-8,Does not apply,0
+E06000052,Cornwall,0,Owned: Owns outright,104659
+E06000052,Cornwall,1,Owned: Owns with a mortgage or loan or shared ownership,64248
+E06000052,Cornwall,2,Social rented: Rents from council or Local Authority,13023
+E06000052,Cornwall,3,Social rented: Other social rented,19016
+E06000052,Cornwall,4,Private rented: Private landlord or letting agency,41545
+E06000052,Cornwall,5,Private rented: Other private rented or lives rent free,8044
+E06000053,Isles of Scilly,-8,Does not apply,0
+E06000053,Isles of Scilly,0,Owned: Owns outright,320
+E06000053,Isles of Scilly,1,Owned: Owns with a mortgage or loan or shared ownership,112
+E06000053,Isles of Scilly,2,Social rented: Rents from council or Local Authority,103
+E06000053,Isles of Scilly,3,Social rented: Other social rented,59
+E06000053,Isles of Scilly,4,Private rented: Private landlord or letting agency,224
+E06000053,Isles of Scilly,5,Private rented: Other private rented or lives rent free,124
+E06000054,Wiltshire,-8,Does not apply,0
+E06000054,Wiltshire,0,Owned: Owns outright,80220
+E06000054,Wiltshire,1,Owned: Owns with a mortgage or loan or shared ownership,66093
+E06000054,Wiltshire,2,Social rented: Rents from council or Local Authority,7845
+E06000054,Wiltshire,3,Social rented: Other social rented,23383
+E06000054,Wiltshire,4,Private rented: Private landlord or letting agency,27674
+E06000054,Wiltshire,5,Private rented: Other private rented or lives rent free,9866
+E06000055,Bedford,-8,Does not apply,0
+E06000055,Bedford,0,Owned: Owns outright,23359
+E06000055,Bedford,1,Owned: Owns with a mortgage or loan or shared ownership,25033
+E06000055,Bedford,2,Social rented: Rents from council or Local Authority,1782
+E06000055,Bedford,3,Social rented: Other social rented,10418
+E06000055,Bedford,4,Private rented: Private landlord or letting agency,12905
+E06000055,Bedford,5,Private rented: Other private rented or lives rent free,1453
+E06000056,Central Bedfordshire,-8,Does not apply,0
+E06000056,Central Bedfordshire,0,Owned: Owns outright,40618
+E06000056,Central Bedfordshire,1,Owned: Owns with a mortgage or loan or shared ownership,47418
+E06000056,Central Bedfordshire,2,Social rented: Rents from council or Local Authority,5620
+E06000056,Central Bedfordshire,3,Social rented: Other social rented,10457
+E06000056,Central Bedfordshire,4,Private rented: Private landlord or letting agency,14329
+E06000056,Central Bedfordshire,5,Private rented: Other private rented or lives rent free,2313
+E06000057,Northumberland,-8,Does not apply,0
+E06000057,Northumberland,0,Owned: Owns outright,56684
+E06000057,Northumberland,1,Owned: Owns with a mortgage or loan or shared ownership,39905
+E06000057,Northumberland,2,Social rented: Rents from council or Local Authority,13597
+E06000057,Northumberland,3,Social rented: Other social rented,12488
+E06000057,Northumberland,4,Private rented: Private landlord or letting agency,20149
+E06000057,Northumberland,5,Private rented: Other private rented or lives rent free,4099
+E06000058,"Bournemouth, Christchurch and Poole",-8,Does not apply,0
+E06000058,"Bournemouth, Christchurch and Poole",0,Owned: Owns outright,59736
+E06000058,"Bournemouth, Christchurch and Poole",1,Owned: Owns with a mortgage or loan or shared ownership,50711
+E06000058,"Bournemouth, Christchurch and Poole",2,Social rented: Rents from council or Local Authority,8864
+E06000058,"Bournemouth, Christchurch and Poole",3,Social rented: Other social rented,10238
+E06000058,"Bournemouth, Christchurch and Poole",4,Private rented: Private landlord or letting agency,40460
+E06000058,"Bournemouth, Christchurch and Poole",5,Private rented: Other private rented or lives rent free,3833
+E06000059,Dorset,-8,Does not apply,0
+E06000059,Dorset,0,Owned: Owns outright,77561
+E06000059,Dorset,1,Owned: Owns with a mortgage or loan or shared ownership,43212
+E06000059,Dorset,2,Social rented: Rents from council or Local Authority,2263
+E06000059,Dorset,3,Social rented: Other social rented,18573
+E06000059,Dorset,4,Private rented: Private landlord or letting agency,22778
+E06000059,Dorset,5,Private rented: Other private rented or lives rent free,4873
+E06000060,Buckinghamshire,-8,Does not apply,0
+E06000060,Buckinghamshire,0,Owned: Owns outright,77213
+E06000060,Buckinghamshire,1,Owned: Owns with a mortgage or loan or shared ownership,79839
+E06000060,Buckinghamshire,2,Social rented: Rents from council or Local Authority,5766
+E06000060,Buckinghamshire,3,Social rented: Other social rented,22769
+E06000060,Buckinghamshire,4,Private rented: Private landlord or letting agency,29769
+E06000060,Buckinghamshire,5,Private rented: Other private rented or lives rent free,4971
+E06000061,North Northamptonshire,-8,Does not apply,0
+E06000061,North Northamptonshire,0,Owned: Owns outright,47617
+E06000061,North Northamptonshire,1,Owned: Owns with a mortgage or loan or shared ownership,51005
+E06000061,North Northamptonshire,2,Social rented: Rents from council or Local Authority,10410
+E06000061,North Northamptonshire,3,Social rented: Other social rented,12261
+E06000061,North Northamptonshire,4,Private rented: Private landlord or letting agency,24645
+E06000061,North Northamptonshire,5,Private rented: Other private rented or lives rent free,2981
+E06000062,West Northamptonshire,-8,Does not apply,0
+E06000062,West Northamptonshire,0,Owned: Owns outright,53782
+E06000062,West Northamptonshire,1,Owned: Owns with a mortgage or loan or shared ownership,60820
+E06000062,West Northamptonshire,2,Social rented: Rents from council or Local Authority,12035
+E06000062,West Northamptonshire,3,Social rented: Other social rented,12776
+E06000062,West Northamptonshire,4,Private rented: Private landlord or letting agency,29463
+E06000062,West Northamptonshire,5,Private rented: Other private rented or lives rent free,3763
+E07000008,Cambridge,-8,Does not apply,0
+E07000008,Cambridge,0,Owned: Owns outright,12897
+E07000008,Cambridge,1,Owned: Owns with a mortgage or loan or shared ownership,11106
+E07000008,Cambridge,2,Social rented: Rents from council or Local Authority,6910
+E07000008,Cambridge,3,Social rented: Other social rented,4980
+E07000008,Cambridge,4,Private rented: Private landlord or letting agency,14735
+E07000008,Cambridge,5,Private rented: Other private rented or lives rent free,1844
+E07000009,East Cambridgeshire,-8,Does not apply,0
+E07000009,East Cambridgeshire,0,Owned: Owns outright,13485
+E07000009,East Cambridgeshire,1,Owned: Owns with a mortgage or loan or shared ownership,12387
+E07000009,East Cambridgeshire,2,Social rented: Rents from council or Local Authority,684
+E07000009,East Cambridgeshire,3,Social rented: Other social rented,4516
+E07000009,East Cambridgeshire,4,Private rented: Private landlord or letting agency,5103
+E07000009,East Cambridgeshire,5,Private rented: Other private rented or lives rent free,1028
+E07000010,Fenland,-8,Does not apply,0
+E07000010,Fenland,0,Owned: Owns outright,16632
+E07000010,Fenland,1,Owned: Owns with a mortgage or loan or shared ownership,13056
+E07000010,Fenland,2,Social rented: Rents from council or Local Authority,1174
+E07000010,Fenland,3,Social rented: Other social rented,4407
+E07000010,Fenland,4,Private rented: Private landlord or letting agency,7788
+E07000010,Fenland,5,Private rented: Other private rented or lives rent free,1026
+E07000011,Huntingdonshire,-8,Does not apply,0
+E07000011,Huntingdonshire,0,Owned: Owns outright,27621
+E07000011,Huntingdonshire,1,Owned: Owns with a mortgage or loan or shared ownership,26453
+E07000011,Huntingdonshire,2,Social rented: Rents from council or Local Authority,1819
+E07000011,Huntingdonshire,3,Social rented: Other social rented,8067
+E07000011,Huntingdonshire,4,Private rented: Private landlord or letting agency,11117
+E07000011,Huntingdonshire,5,Private rented: Other private rented or lives rent free,1803
+E07000012,South Cambridgeshire,-8,Does not apply,0
+E07000012,South Cambridgeshire,0,Owned: Owns outright,24426
+E07000012,South Cambridgeshire,1,Owned: Owns with a mortgage or loan or shared ownership,23413
+E07000012,South Cambridgeshire,2,Social rented: Rents from council or Local Authority,5397
+E07000012,South Cambridgeshire,3,Social rented: Other social rented,4299
+E07000012,South Cambridgeshire,4,Private rented: Private landlord or letting agency,8055
+E07000012,South Cambridgeshire,5,Private rented: Other private rented or lives rent free,1406
+E07000026,Allerdale,-8,Does not apply,0
+E07000026,Allerdale,0,Owned: Owns outright,18770
+E07000026,Allerdale,1,Owned: Owns with a mortgage or loan or shared ownership,11517
+E07000026,Allerdale,2,Social rented: Rents from council or Local Authority,1096
+E07000026,Allerdale,3,Social rented: Other social rented,7217
+E07000026,Allerdale,4,Private rented: Private landlord or letting agency,4241
+E07000026,Allerdale,5,Private rented: Other private rented or lives rent free,1131
+E07000027,Barrow-in-Furness,-8,Does not apply,0
+E07000027,Barrow-in-Furness,0,Owned: Owns outright,12250
+E07000027,Barrow-in-Furness,1,Owned: Owns with a mortgage or loan or shared ownership,10265
+E07000027,Barrow-in-Furness,2,Social rented: Rents from council or Local Authority,2388
+E07000027,Barrow-in-Furness,3,Social rented: Other social rented,1063
+E07000027,Barrow-in-Furness,4,Private rented: Private landlord or letting agency,4588
+E07000027,Barrow-in-Furness,5,Private rented: Other private rented or lives rent free,705
+E07000028,Carlisle,-8,Does not apply,0
+E07000028,Carlisle,0,Owned: Owns outright,19427
+E07000028,Carlisle,1,Owned: Owns with a mortgage or loan or shared ownership,15039
+E07000028,Carlisle,2,Social rented: Rents from council or Local Authority,1402
+E07000028,Carlisle,3,Social rented: Other social rented,5870
+E07000028,Carlisle,4,Private rented: Private landlord or letting agency,7687
+E07000028,Carlisle,5,Private rented: Other private rented or lives rent free,1238
+E07000029,Copeland,-8,Does not apply,0
+E07000029,Copeland,0,Owned: Owns outright,12988
+E07000029,Copeland,1,Owned: Owns with a mortgage or loan or shared ownership,8947
+E07000029,Copeland,2,Social rented: Rents from council or Local Authority,1635
+E07000029,Copeland,3,Social rented: Other social rented,3794
+E07000029,Copeland,4,Private rented: Private landlord or letting agency,2726
+E07000029,Copeland,5,Private rented: Other private rented or lives rent free,699
+E07000030,Eden,-8,Does not apply,0
+E07000030,Eden,0,Owned: Owns outright,11661
+E07000030,Eden,1,Owned: Owns with a mortgage or loan or shared ownership,5958
+E07000030,Eden,2,Social rented: Rents from council or Local Authority,399
+E07000030,Eden,3,Social rented: Other social rented,2143
+E07000030,Eden,4,Private rented: Private landlord or letting agency,3522
+E07000030,Eden,5,Private rented: Other private rented or lives rent free,930
+E07000031,South Lakeland,-8,Does not apply,0
+E07000031,South Lakeland,0,Owned: Owns outright,22394
+E07000031,South Lakeland,1,Owned: Owns with a mortgage or loan or shared ownership,12149
+E07000031,South Lakeland,2,Social rented: Rents from council or Local Authority,2201
+E07000031,South Lakeland,3,Social rented: Other social rented,2911
+E07000031,South Lakeland,4,Private rented: Private landlord or letting agency,6525
+E07000031,South Lakeland,5,Private rented: Other private rented or lives rent free,1477
+E07000032,Amber Valley,-8,Does not apply,0
+E07000032,Amber Valley,0,Owned: Owns outright,23051
+E07000032,Amber Valley,1,Owned: Owns with a mortgage or loan or shared ownership,17771
+E07000032,Amber Valley,2,Social rented: Rents from council or Local Authority,2302
+E07000032,Amber Valley,3,Social rented: Other social rented,4867
+E07000032,Amber Valley,4,Private rented: Private landlord or letting agency,7174
+E07000032,Amber Valley,5,Private rented: Other private rented or lives rent free,1112
+E07000033,Bolsover,-8,Does not apply,0
+E07000033,Bolsover,0,Owned: Owns outright,12391
+E07000033,Bolsover,1,Owned: Owns with a mortgage or loan or shared ownership,10990
+E07000033,Bolsover,2,Social rented: Rents from council or Local Authority,4647
+E07000033,Bolsover,3,Social rented: Other social rented,1115
+E07000033,Bolsover,4,Private rented: Private landlord or letting agency,5373
+E07000033,Bolsover,5,Private rented: Other private rented or lives rent free,746
+E07000034,Chesterfield,-8,Does not apply,0
+E07000034,Chesterfield,0,Owned: Owns outright,17249
+E07000034,Chesterfield,1,Owned: Owns with a mortgage or loan or shared ownership,12982
+E07000034,Chesterfield,2,Social rented: Rents from council or Local Authority,8428
+E07000034,Chesterfield,3,Social rented: Other social rented,1539
+E07000034,Chesterfield,4,Private rented: Private landlord or letting agency,6882
+E07000034,Chesterfield,5,Private rented: Other private rented or lives rent free,977
+E07000035,Derbyshire Dales,-8,Does not apply,0
+E07000035,Derbyshire Dales,0,Owned: Owns outright,15405
+E07000035,Derbyshire Dales,1,Owned: Owns with a mortgage or loan or shared ownership,8143
+E07000035,Derbyshire Dales,2,Social rented: Rents from council or Local Authority,942
+E07000035,Derbyshire Dales,3,Social rented: Other social rented,3133
+E07000035,Derbyshire Dales,4,Private rented: Private landlord or letting agency,3731
+E07000035,Derbyshire Dales,5,Private rented: Other private rented or lives rent free,929
+E07000036,Erewash,-8,Does not apply,0
+E07000036,Erewash,0,Owned: Owns outright,18887
+E07000036,Erewash,1,Owned: Owns with a mortgage or loan or shared ownership,16550
+E07000036,Erewash,2,Social rented: Rents from council or Local Authority,1775
+E07000036,Erewash,3,Social rented: Other social rented,4623
+E07000036,Erewash,4,Private rented: Private landlord or letting agency,7518
+E07000036,Erewash,5,Private rented: Other private rented or lives rent free,982
+E07000037,High Peak,-8,Does not apply,0
+E07000037,High Peak,0,Owned: Owns outright,16367
+E07000037,High Peak,1,Owned: Owns with a mortgage or loan or shared ownership,12846
+E07000037,High Peak,2,Social rented: Rents from council or Local Authority,3610
+E07000037,High Peak,3,Social rented: Other social rented,1347
+E07000037,High Peak,4,Private rented: Private landlord or letting agency,5633
+E07000037,High Peak,5,Private rented: Other private rented or lives rent free,969
+E07000038,North East Derbyshire,-8,Does not apply,0
+E07000038,North East Derbyshire,0,Owned: Owns outright,18959
+E07000038,North East Derbyshire,1,Owned: Owns with a mortgage or loan or shared ownership,13737
+E07000038,North East Derbyshire,2,Social rented: Rents from council or Local Authority,7020
+E07000038,North East Derbyshire,3,Social rented: Other social rented,1577
+E07000038,North East Derbyshire,4,Private rented: Private landlord or letting agency,3841
+E07000038,North East Derbyshire,5,Private rented: Other private rented or lives rent free,852
+E07000039,South Derbyshire,-8,Does not apply,0
+E07000039,South Derbyshire,0,Owned: Owns outright,16388
+E07000039,South Derbyshire,1,Owned: Owns with a mortgage or loan or shared ownership,17689
+E07000039,South Derbyshire,2,Social rented: Rents from council or Local Authority,2780
+E07000039,South Derbyshire,3,Social rented: Other social rented,1686
+E07000039,South Derbyshire,4,Private rented: Private landlord or letting agency,5836
+E07000039,South Derbyshire,5,Private rented: Other private rented or lives rent free,861
+E07000040,East Devon,-8,Does not apply,0
+E07000040,East Devon,0,Owned: Owns outright,31228
+E07000040,East Devon,1,Owned: Owns with a mortgage or loan or shared ownership,17914
+E07000040,East Devon,2,Social rented: Rents from council or Local Authority,4030
+E07000040,East Devon,3,Social rented: Other social rented,2868
+E07000040,East Devon,4,Private rented: Private landlord or letting agency,8960
+E07000040,East Devon,5,Private rented: Other private rented or lives rent free,1788
+E07000041,Exeter,-8,Does not apply,0
+E07000041,Exeter,0,Owned: Owns outright,16369
+E07000041,Exeter,1,Owned: Owns with a mortgage or loan or shared ownership,14286
+E07000041,Exeter,2,Social rented: Rents from council or Local Authority,4640
+E07000041,Exeter,3,Social rented: Other social rented,4087
+E07000041,Exeter,4,Private rented: Private landlord or letting agency,12024
+E07000041,Exeter,5,Private rented: Other private rented or lives rent free,1147
+E07000042,Mid Devon,-8,Does not apply,0
+E07000042,Mid Devon,0,Owned: Owns outright,14110
+E07000042,Mid Devon,1,Owned: Owns with a mortgage or loan or shared ownership,10353
+E07000042,Mid Devon,2,Social rented: Rents from council or Local Authority,2830
+E07000042,Mid Devon,3,Social rented: Other social rented,1674
+E07000042,Mid Devon,4,Private rented: Private landlord or letting agency,5704
+E07000042,Mid Devon,5,Private rented: Other private rented or lives rent free,959
+E07000043,North Devon,-8,Does not apply,0
+E07000043,North Devon,0,Owned: Owns outright,18055
+E07000043,North Devon,1,Owned: Owns with a mortgage or loan or shared ownership,11502
+E07000043,North Devon,2,Social rented: Rents from council or Local Authority,1110
+E07000043,North Devon,3,Social rented: Other social rented,3701
+E07000043,North Devon,4,Private rented: Private landlord or letting agency,7364
+E07000043,North Devon,5,Private rented: Other private rented or lives rent free,1466
+E07000044,South Hams,-8,Does not apply,0
+E07000044,South Hams,0,Owned: Owns outright,17708
+E07000044,South Hams,1,Owned: Owns with a mortgage or loan or shared ownership,10636
+E07000044,South Hams,2,Social rented: Rents from council or Local Authority,728
+E07000044,South Hams,3,Social rented: Other social rented,3925
+E07000044,South Hams,4,Private rented: Private landlord or letting agency,5258
+E07000044,South Hams,5,Private rented: Other private rented or lives rent free,1080
+E07000045,Teignbridge,-8,Does not apply,0
+E07000045,Teignbridge,0,Owned: Owns outright,25889
+E07000045,Teignbridge,1,Owned: Owns with a mortgage or loan or shared ownership,17545
+E07000045,Teignbridge,2,Social rented: Rents from council or Local Authority,1324
+E07000045,Teignbridge,3,Social rented: Other social rented,4370
+E07000045,Teignbridge,4,Private rented: Private landlord or letting agency,9357
+E07000045,Teignbridge,5,Private rented: Other private rented or lives rent free,1352
+E07000046,Torridge,-8,Does not apply,0
+E07000046,Torridge,0,Owned: Owns outright,13870
+E07000046,Torridge,1,Owned: Owns with a mortgage or loan or shared ownership,7581
+E07000046,Torridge,2,Social rented: Rents from council or Local Authority,467
+E07000046,Torridge,3,Social rented: Other social rented,2380
+E07000046,Torridge,4,Private rented: Private landlord or letting agency,5157
+E07000046,Torridge,5,Private rented: Other private rented or lives rent free,1002
+E07000047,West Devon,-8,Does not apply,0
+E07000047,West Devon,0,Owned: Owns outright,11569
+E07000047,West Devon,1,Owned: Owns with a mortgage or loan or shared ownership,6219
+E07000047,West Devon,2,Social rented: Rents from council or Local Authority,495
+E07000047,West Devon,3,Social rented: Other social rented,2000
+E07000047,West Devon,4,Private rented: Private landlord or letting agency,3830
+E07000047,West Devon,5,Private rented: Other private rented or lives rent free,705
+E07000061,Eastbourne,-8,Does not apply,0
+E07000061,Eastbourne,0,Owned: Owns outright,16305
+E07000061,Eastbourne,1,Owned: Owns with a mortgage or loan or shared ownership,11194
+E07000061,Eastbourne,2,Social rented: Rents from council or Local Authority,3223
+E07000061,Eastbourne,3,Social rented: Other social rented,2717
+E07000061,Eastbourne,4,Private rented: Private landlord or letting agency,11117
+E07000061,Eastbourne,5,Private rented: Other private rented or lives rent free,1054
+E07000062,Hastings,-8,Does not apply,0
+E07000062,Hastings,0,Owned: Owns outright,12644
+E07000062,Hastings,1,Owned: Owns with a mortgage or loan or shared ownership,10446
+E07000062,Hastings,2,Social rented: Rents from council or Local Authority,918
+E07000062,Hastings,3,Social rented: Other social rented,4853
+E07000062,Hastings,4,Private rented: Private landlord or letting agency,10642
+E07000062,Hastings,5,Private rented: Other private rented or lives rent free,948
+E07000063,Lewes,-8,Does not apply,0
+E07000063,Lewes,0,Owned: Owns outright,18524
+E07000063,Lewes,1,Owned: Owns with a mortgage or loan or shared ownership,12960
+E07000063,Lewes,2,Social rented: Rents from council or Local Authority,3162
+E07000063,Lewes,3,Social rented: Other social rented,1612
+E07000063,Lewes,4,Private rented: Private landlord or letting agency,6524
+E07000063,Lewes,5,Private rented: Other private rented or lives rent free,907
+E07000064,Rother,-8,Does not apply,0
+E07000064,Rother,0,Owned: Owns outright,20395
+E07000064,Rother,1,Owned: Owns with a mortgage or loan or shared ownership,10582
+E07000064,Rother,2,Social rented: Rents from council or Local Authority,645
+E07000064,Rother,3,Social rented: Other social rented,3648
+E07000064,Rother,4,Private rented: Private landlord or letting agency,5862
+E07000064,Rother,5,Private rented: Other private rented or lives rent free,972
+E07000065,Wealden,-8,Does not apply,0
+E07000065,Wealden,0,Owned: Owns outright,30510
+E07000065,Wealden,1,Owned: Owns with a mortgage or loan or shared ownership,22827
+E07000065,Wealden,2,Social rented: Rents from council or Local Authority,2887
+E07000065,Wealden,3,Social rented: Other social rented,2814
+E07000065,Wealden,4,Private rented: Private landlord or letting agency,7658
+E07000065,Wealden,5,Private rented: Other private rented or lives rent free,1570
+E07000066,Basildon,-8,Does not apply,0
+E07000066,Basildon,0,Owned: Owns outright,23029
+E07000066,Basildon,1,Owned: Owns with a mortgage or loan or shared ownership,26144
+E07000066,Basildon,2,Social rented: Rents from council or Local Authority,10563
+E07000066,Basildon,3,Social rented: Other social rented,5650
+E07000066,Basildon,4,Private rented: Private landlord or letting agency,9762
+E07000066,Basildon,5,Private rented: Other private rented or lives rent free,1214
+E07000067,Braintree,-8,Does not apply,0
+E07000067,Braintree,0,Owned: Owns outright,22262
+E07000067,Braintree,1,Owned: Owns with a mortgage or loan or shared ownership,22305
+E07000067,Braintree,2,Social rented: Rents from council or Local Authority,2187
+E07000067,Braintree,3,Social rented: Other social rented,8406
+E07000067,Braintree,4,Private rented: Private landlord or letting agency,8573
+E07000067,Braintree,5,Private rented: Other private rented or lives rent free,1252
+E07000068,Brentwood,-8,Does not apply,0
+E07000068,Brentwood,0,Owned: Owns outright,11797
+E07000068,Brentwood,1,Owned: Owns with a mortgage or loan or shared ownership,11674
+E07000068,Brentwood,2,Social rented: Rents from council or Local Authority,2649
+E07000068,Brentwood,3,Social rented: Other social rented,1011
+E07000068,Brentwood,4,Private rented: Private landlord or letting agency,4589
+E07000068,Brentwood,5,Private rented: Other private rented or lives rent free,624
+E07000069,Castle Point,-8,Does not apply,0
+E07000069,Castle Point,0,Owned: Owns outright,16937
+E07000069,Castle Point,1,Owned: Owns with a mortgage or loan or shared ownership,13135
+E07000069,Castle Point,2,Social rented: Rents from council or Local Authority,1423
+E07000069,Castle Point,3,Social rented: Other social rented,628
+E07000069,Castle Point,4,Private rented: Private landlord or letting agency,4585
+E07000069,Castle Point,5,Private rented: Other private rented or lives rent free,681
+E07000070,Chelmsford,-8,Does not apply,0
+E07000070,Chelmsford,0,Owned: Owns outright,27057
+E07000070,Chelmsford,1,Owned: Owns with a mortgage or loan or shared ownership,26571
+E07000070,Chelmsford,2,Social rented: Rents from council or Local Authority,1619
+E07000070,Chelmsford,3,Social rented: Other social rented,8398
+E07000070,Chelmsford,4,Private rented: Private landlord or letting agency,10479
+E07000070,Chelmsford,5,Private rented: Other private rented or lives rent free,1278
+E07000071,Colchester,-8,Does not apply,0
+E07000071,Colchester,0,Owned: Owns outright,26126
+E07000071,Colchester,1,Owned: Owns with a mortgage or loan or shared ownership,25771
+E07000071,Colchester,2,Social rented: Rents from council or Local Authority,5645
+E07000071,Colchester,3,Social rented: Other social rented,4940
+E07000071,Colchester,4,Private rented: Private landlord or letting agency,15003
+E07000071,Colchester,5,Private rented: Other private rented or lives rent free,2225
+E07000072,Epping Forest,-8,Does not apply,0
+E07000072,Epping Forest,0,Owned: Owns outright,19180
+E07000072,Epping Forest,1,Owned: Owns with a mortgage or loan or shared ownership,19159
+E07000072,Epping Forest,2,Social rented: Rents from council or Local Authority,6215
+E07000072,Epping Forest,3,Social rented: Other social rented,1778
+E07000072,Epping Forest,4,Private rented: Private landlord or letting agency,7082
+E07000072,Epping Forest,5,Private rented: Other private rented or lives rent free,1143
+E07000073,Harlow,-8,Does not apply,0
+E07000073,Harlow,0,Owned: Owns outright,8723
+E07000073,Harlow,1,Owned: Owns with a mortgage or loan or shared ownership,12122
+E07000073,Harlow,2,Social rented: Rents from council or Local Authority,9051
+E07000073,Harlow,3,Social rented: Other social rented,2046
+E07000073,Harlow,4,Private rented: Private landlord or letting agency,5298
+E07000073,Harlow,5,Private rented: Other private rented or lives rent free,617
+E07000074,Maldon,-8,Does not apply,0
+E07000074,Maldon,0,Owned: Owns outright,12224
+E07000074,Maldon,1,Owned: Owns with a mortgage or loan or shared ownership,9261
+E07000074,Maldon,2,Social rented: Rents from council or Local Authority,266
+E07000074,Maldon,3,Social rented: Other social rented,2866
+E07000074,Maldon,4,Private rented: Private landlord or letting agency,2670
+E07000074,Maldon,5,Private rented: Other private rented or lives rent free,613
+E07000075,Rochford,-8,Does not apply,0
+E07000075,Rochford,0,Owned: Owns outright,15572
+E07000075,Rochford,1,Owned: Owns with a mortgage or loan or shared ownership,13306
+E07000075,Rochford,2,Social rented: Rents from council or Local Authority,365
+E07000075,Rochford,3,Social rented: Other social rented,2506
+E07000075,Rochford,4,Private rented: Private landlord or letting agency,3203
+E07000075,Rochford,5,Private rented: Other private rented or lives rent free,605
+E07000076,Tendring,-8,Does not apply,0
+E07000076,Tendring,0,Owned: Owns outright,31510
+E07000076,Tendring,1,Owned: Owns with a mortgage or loan or shared ownership,17019
+E07000076,Tendring,2,Social rented: Rents from council or Local Authority,2702
+E07000076,Tendring,3,Social rented: Other social rented,2804
+E07000076,Tendring,4,Private rented: Private landlord or letting agency,11829
+E07000076,Tendring,5,Private rented: Other private rented or lives rent free,1587
+E07000077,Uttlesford,-8,Does not apply,0
+E07000077,Uttlesford,0,Owned: Owns outright,13177
+E07000077,Uttlesford,1,Owned: Owns with a mortgage or loan or shared ownership,13571
+E07000077,Uttlesford,2,Social rented: Rents from council or Local Authority,2682
+E07000077,Uttlesford,3,Social rented: Other social rented,2127
+E07000077,Uttlesford,4,Private rented: Private landlord or letting agency,4519
+E07000077,Uttlesford,5,Private rented: Other private rented or lives rent free,882
+E07000078,Cheltenham,-8,Does not apply,0
+E07000078,Cheltenham,0,Owned: Owns outright,18362
+E07000078,Cheltenham,1,Owned: Owns with a mortgage or loan or shared ownership,15670
+E07000078,Cheltenham,2,Social rented: Rents from council or Local Authority,4069
+E07000078,Cheltenham,3,Social rented: Other social rented,2363
+E07000078,Cheltenham,4,Private rented: Private landlord or letting agency,11406
+E07000078,Cheltenham,5,Private rented: Other private rented or lives rent free,1029
+E07000079,Cotswold,-8,Does not apply,0
+E07000079,Cotswold,0,Owned: Owns outright,16177
+E07000079,Cotswold,1,Owned: Owns with a mortgage or loan or shared ownership,11129
+E07000079,Cotswold,2,Social rented: Rents from council or Local Authority,675
+E07000079,Cotswold,3,Social rented: Other social rented,5557
+E07000079,Cotswold,4,Private rented: Private landlord or letting agency,5592
+E07000079,Cotswold,5,Private rented: Other private rented or lives rent free,1467
+E07000080,Forest of Dean,-8,Does not apply,0
+E07000080,Forest of Dean,0,Owned: Owns outright,16466
+E07000080,Forest of Dean,1,Owned: Owns with a mortgage or loan or shared ownership,10871
+E07000080,Forest of Dean,2,Social rented: Rents from council or Local Authority,832
+E07000080,Forest of Dean,3,Social rented: Other social rented,4004
+E07000080,Forest of Dean,4,Private rented: Private landlord or letting agency,4072
+E07000080,Forest of Dean,5,Private rented: Other private rented or lives rent free,972
+E07000081,Gloucester,-8,Does not apply,0
+E07000081,Gloucester,0,Owned: Owns outright,17510
+E07000081,Gloucester,1,Owned: Owns with a mortgage or loan or shared ownership,18499
+E07000081,Gloucester,2,Social rented: Rents from council or Local Authority,2797
+E07000081,Gloucester,3,Social rented: Other social rented,4740
+E07000081,Gloucester,4,Private rented: Private landlord or letting agency,10691
+E07000081,Gloucester,5,Private rented: Other private rented or lives rent free,1169
+E07000082,Stroud,-8,Does not apply,0
+E07000082,Stroud,0,Owned: Owns outright,21548
+E07000082,Stroud,1,Owned: Owns with a mortgage or loan or shared ownership,17163
+E07000082,Stroud,2,Social rented: Rents from council or Local Authority,4521
+E07000082,Stroud,3,Social rented: Other social rented,1909
+E07000082,Stroud,4,Private rented: Private landlord or letting agency,6125
+E07000082,Stroud,5,Private rented: Other private rented or lives rent free,1112
+E07000083,Tewkesbury,-8,Does not apply,0
+E07000083,Tewkesbury,0,Owned: Owns outright,15984
+E07000083,Tewkesbury,1,Owned: Owns with a mortgage or loan or shared ownership,13893
+E07000083,Tewkesbury,2,Social rented: Rents from council or Local Authority,865
+E07000083,Tewkesbury,3,Social rented: Other social rented,4333
+E07000083,Tewkesbury,4,Private rented: Private landlord or letting agency,4763
+E07000083,Tewkesbury,5,Private rented: Other private rented or lives rent free,1093
+E07000084,Basingstoke and Deane,-8,Does not apply,0
+E07000084,Basingstoke and Deane,0,Owned: Owns outright,23475
+E07000084,Basingstoke and Deane,1,Owned: Owns with a mortgage or loan or shared ownership,27645
+E07000084,Basingstoke and Deane,2,Social rented: Rents from council or Local Authority,765
+E07000084,Basingstoke and Deane,3,Social rented: Other social rented,12946
+E07000084,Basingstoke and Deane,4,Private rented: Private landlord or letting agency,10412
+E07000084,Basingstoke and Deane,5,Private rented: Other private rented or lives rent free,1402
+E07000085,East Hampshire,-8,Does not apply,0
+E07000085,East Hampshire,0,Owned: Owns outright,21080
+E07000085,East Hampshire,1,Owned: Owns with a mortgage or loan or shared ownership,18144
+E07000085,East Hampshire,2,Social rented: Rents from council or Local Authority,920
+E07000085,East Hampshire,3,Social rented: Other social rented,5687
+E07000085,East Hampshire,4,Private rented: Private landlord or letting agency,5692
+E07000085,East Hampshire,5,Private rented: Other private rented or lives rent free,1192
+E07000086,Eastleigh,-8,Does not apply,0
+E07000086,Eastleigh,0,Owned: Owns outright,20012
+E07000086,Eastleigh,1,Owned: Owns with a mortgage or loan or shared ownership,21539
+E07000086,Eastleigh,2,Social rented: Rents from council or Local Authority,673
+E07000086,Eastleigh,3,Social rented: Other social rented,6757
+E07000086,Eastleigh,4,Private rented: Private landlord or letting agency,7081
+E07000086,Eastleigh,5,Private rented: Other private rented or lives rent free,862
+E07000087,Fareham,-8,Does not apply,0
+E07000087,Fareham,0,Owned: Owns outright,21154
+E07000087,Fareham,1,Owned: Owns with a mortgage or loan or shared ownership,17379
+E07000087,Fareham,2,Social rented: Rents from council or Local Authority,2237
+E07000087,Fareham,3,Social rented: Other social rented,1722
+E07000087,Fareham,4,Private rented: Private landlord or letting agency,4990
+E07000087,Fareham,5,Private rented: Other private rented or lives rent free,1157
+E07000088,Gosport,-8,Does not apply,0
+E07000088,Gosport,0,Owned: Owns outright,12314
+E07000088,Gosport,1,Owned: Owns with a mortgage or loan or shared ownership,10969
+E07000088,Gosport,2,Social rented: Rents from council or Local Authority,2998
+E07000088,Gosport,3,Social rented: Other social rented,2864
+E07000088,Gosport,4,Private rented: Private landlord or letting agency,5481
+E07000088,Gosport,5,Private rented: Other private rented or lives rent free,1294
+E07000089,Hart,-8,Does not apply,0
+E07000089,Hart,0,Owned: Owns outright,14958
+E07000089,Hart,1,Owned: Owns with a mortgage or loan or shared ownership,16045
+E07000089,Hart,2,Social rented: Rents from council or Local Authority,370
+E07000089,Hart,3,Social rented: Other social rented,3144
+E07000089,Hart,4,Private rented: Private landlord or letting agency,4428
+E07000089,Hart,5,Private rented: Other private rented or lives rent free,1019
+E07000090,Havant,-8,Does not apply,0
+E07000090,Havant,0,Owned: Owns outright,20869
+E07000090,Havant,1,Owned: Owns with a mortgage or loan or shared ownership,15995
+E07000090,Havant,2,Social rented: Rents from council or Local Authority,5040
+E07000090,Havant,3,Social rented: Other social rented,4949
+E07000090,Havant,4,Private rented: Private landlord or letting agency,5760
+E07000090,Havant,5,Private rented: Other private rented or lives rent free,976
+E07000091,New Forest,-8,Does not apply,0
+E07000091,New Forest,0,Owned: Owns outright,36150
+E07000091,New Forest,1,Owned: Owns with a mortgage or loan or shared ownership,21875
+E07000091,New Forest,2,Social rented: Rents from council or Local Authority,4976
+E07000091,New Forest,3,Social rented: Other social rented,3391
+E07000091,New Forest,4,Private rented: Private landlord or letting agency,9259
+E07000091,New Forest,5,Private rented: Other private rented or lives rent free,1916
+E07000092,Rushmoor,-8,Does not apply,0
+E07000092,Rushmoor,0,Owned: Owns outright,9979
+E07000092,Rushmoor,1,Owned: Owns with a mortgage or loan or shared ownership,14474
+E07000092,Rushmoor,2,Social rented: Rents from council or Local Authority,945
+E07000092,Rushmoor,3,Social rented: Other social rented,5424
+E07000092,Rushmoor,4,Private rented: Private landlord or letting agency,6510
+E07000092,Rushmoor,5,Private rented: Other private rented or lives rent free,1971
+E07000093,Test Valley,-8,Does not apply,0
+E07000093,Test Valley,0,Owned: Owns outright,19742
+E07000093,Test Valley,1,Owned: Owns with a mortgage or loan or shared ownership,19023
+E07000093,Test Valley,2,Social rented: Rents from council or Local Authority,1935
+E07000093,Test Valley,3,Social rented: Other social rented,5907
+E07000093,Test Valley,4,Private rented: Private landlord or letting agency,6356
+E07000093,Test Valley,5,Private rented: Other private rented or lives rent free,1745
+E07000094,Winchester,-8,Does not apply,0
+E07000094,Winchester,0,Owned: Owns outright,18648
+E07000094,Winchester,1,Owned: Owns with a mortgage or loan or shared ownership,15972
+E07000094,Winchester,2,Social rented: Rents from council or Local Authority,4950
+E07000094,Winchester,3,Social rented: Other social rented,2987
+E07000094,Winchester,4,Private rented: Private landlord or letting agency,7489
+E07000094,Winchester,5,Private rented: Other private rented or lives rent free,1667
+E07000095,Broxbourne,-8,Does not apply,0
+E07000095,Broxbourne,0,Owned: Owns outright,13178
+E07000095,Broxbourne,1,Owned: Owns with a mortgage or loan or shared ownership,14599
+E07000095,Broxbourne,2,Social rented: Rents from council or Local Authority,1400
+E07000095,Broxbourne,3,Social rented: Other social rented,4283
+E07000095,Broxbourne,4,Private rented: Private landlord or letting agency,5783
+E07000095,Broxbourne,5,Private rented: Other private rented or lives rent free,607
+E07000096,Dacorum,-8,Does not apply,0
+E07000096,Dacorum,0,Owned: Owns outright,19598
+E07000096,Dacorum,1,Owned: Owns with a mortgage or loan or shared ownership,21331
+E07000096,Dacorum,2,Social rented: Rents from council or Local Authority,9863
+E07000096,Dacorum,3,Social rented: Other social rented,3457
+E07000096,Dacorum,4,Private rented: Private landlord or letting agency,8214
+E07000096,Dacorum,5,Private rented: Other private rented or lives rent free,949
+E07000098,Hertsmere,-8,Does not apply,0
+E07000098,Hertsmere,0,Owned: Owns outright,13227
+E07000098,Hertsmere,1,Owned: Owns with a mortgage or loan or shared ownership,14660
+E07000098,Hertsmere,2,Social rented: Rents from council or Local Authority,873
+E07000098,Hertsmere,3,Social rented: Other social rented,6528
+E07000098,Hertsmere,4,Private rented: Private landlord or letting agency,6544
+E07000098,Hertsmere,5,Private rented: Other private rented or lives rent free,850
+E07000099,North Hertfordshire,-8,Does not apply,0
+E07000099,North Hertfordshire,0,Owned: Owns outright,18933
+E07000099,North Hertfordshire,1,Owned: Owns with a mortgage or loan or shared ownership,18470
+E07000099,North Hertfordshire,2,Social rented: Rents from council or Local Authority,3476
+E07000099,North Hertfordshire,3,Social rented: Other social rented,7118
+E07000099,North Hertfordshire,4,Private rented: Private landlord or letting agency,7756
+E07000099,North Hertfordshire,5,Private rented: Other private rented or lives rent free,979
+E07000102,Three Rivers,-8,Does not apply,0
+E07000102,Three Rivers,0,Owned: Owns outright,12806
+E07000102,Three Rivers,1,Owned: Owns with a mortgage or loan or shared ownership,13610
+E07000102,Three Rivers,2,Social rented: Rents from council or Local Authority,1518
+E07000102,Three Rivers,3,Social rented: Other social rented,3949
+E07000102,Three Rivers,4,Private rented: Private landlord or letting agency,4296
+E07000102,Three Rivers,5,Private rented: Other private rented or lives rent free,679
+E07000103,Watford,-8,Does not apply,0
+E07000103,Watford,0,Owned: Owns outright,9577
+E07000103,Watford,1,Owned: Owns with a mortgage or loan or shared ownership,12687
+E07000103,Watford,2,Social rented: Rents from council or Local Authority,1531
+E07000103,Watford,3,Social rented: Other social rented,4641
+E07000103,Watford,4,Private rented: Private landlord or letting agency,10505
+E07000103,Watford,5,Private rented: Other private rented or lives rent free,688
+E07000105,Ashford,-8,Does not apply,0
+E07000105,Ashford,0,Owned: Owns outright,18032
+E07000105,Ashford,1,Owned: Owns with a mortgage or loan or shared ownership,18482
+E07000105,Ashford,2,Social rented: Rents from council or Local Authority,4750
+E07000105,Ashford,3,Social rented: Other social rented,2751
+E07000105,Ashford,4,Private rented: Private landlord or letting agency,8236
+E07000105,Ashford,5,Private rented: Other private rented or lives rent free,1332
+E07000106,Canterbury,-8,Does not apply,0
+E07000106,Canterbury,0,Owned: Owns outright,24477
+E07000106,Canterbury,1,Owned: Owns with a mortgage or loan or shared ownership,17422
+E07000106,Canterbury,2,Social rented: Rents from council or Local Authority,5006
+E07000106,Canterbury,3,Social rented: Other social rented,2794
+E07000106,Canterbury,4,Private rented: Private landlord or letting agency,12522
+E07000106,Canterbury,5,Private rented: Other private rented or lives rent free,1571
+E07000107,Dartford,-8,Does not apply,0
+E07000107,Dartford,0,Owned: Owns outright,12302
+E07000107,Dartford,1,Owned: Owns with a mortgage or loan or shared ownership,18736
+E07000107,Dartford,2,Social rented: Rents from council or Local Authority,4274
+E07000107,Dartford,3,Social rented: Other social rented,2040
+E07000107,Dartford,4,Private rented: Private landlord or letting agency,7617
+E07000107,Dartford,5,Private rented: Other private rented or lives rent free,726
+E07000108,Dover,-8,Does not apply,0
+E07000108,Dover,0,Owned: Owns outright,19753
+E07000108,Dover,1,Owned: Owns with a mortgage or loan or shared ownership,14112
+E07000108,Dover,2,Social rented: Rents from council or Local Authority,4196
+E07000108,Dover,3,Social rented: Other social rented,2843
+E07000108,Dover,4,Private rented: Private landlord or letting agency,8379
+E07000108,Dover,5,Private rented: Other private rented or lives rent free,1267
+E07000109,Gravesham,-8,Does not apply,0
+E07000109,Gravesham,0,Owned: Owns outright,13018
+E07000109,Gravesham,1,Owned: Owns with a mortgage or loan or shared ownership,13385
+E07000109,Gravesham,2,Social rented: Rents from council or Local Authority,5308
+E07000109,Gravesham,3,Social rented: Other social rented,1962
+E07000109,Gravesham,4,Private rented: Private landlord or letting agency,7276
+E07000109,Gravesham,5,Private rented: Other private rented or lives rent free,775
+E07000110,Maidstone,-8,Does not apply,0
+E07000110,Maidstone,0,Owned: Owns outright,24192
+E07000110,Maidstone,1,Owned: Owns with a mortgage or loan or shared ownership,25149
+E07000110,Maidstone,2,Social rented: Rents from council or Local Authority,1887
+E07000110,Maidstone,3,Social rented: Other social rented,7620
+E07000110,Maidstone,4,Private rented: Private landlord or letting agency,10725
+E07000110,Maidstone,5,Private rented: Other private rented or lives rent free,1635
+E07000111,Sevenoaks,-8,Does not apply,0
+E07000111,Sevenoaks,0,Owned: Owns outright,18769
+E07000111,Sevenoaks,1,Owned: Owns with a mortgage or loan or shared ownership,17210
+E07000111,Sevenoaks,2,Social rented: Rents from council or Local Authority,996
+E07000111,Sevenoaks,3,Social rented: Other social rented,5469
+E07000111,Sevenoaks,4,Private rented: Private landlord or letting agency,5572
+E07000111,Sevenoaks,5,Private rented: Other private rented or lives rent free,997
+E07000112,Folkestone and Hythe,-8,Does not apply,0
+E07000112,Folkestone and Hythe,0,Owned: Owns outright,18966
+E07000112,Folkestone and Hythe,1,Owned: Owns with a mortgage or loan or shared ownership,13206
+E07000112,Folkestone and Hythe,2,Social rented: Rents from council or Local Authority,3153
+E07000112,Folkestone and Hythe,3,Social rented: Other social rented,2098
+E07000112,Folkestone and Hythe,4,Private rented: Private landlord or letting agency,9555
+E07000112,Folkestone and Hythe,5,Private rented: Other private rented or lives rent free,1359
+E07000113,Swale,-8,Does not apply,0
+E07000113,Swale,0,Owned: Owns outright,20788
+E07000113,Swale,1,Owned: Owns with a mortgage or loan or shared ownership,20547
+E07000113,Swale,2,Social rented: Rents from council or Local Authority,1325
+E07000113,Swale,3,Social rented: Other social rented,6716
+E07000113,Swale,4,Private rented: Private landlord or letting agency,9851
+E07000113,Swale,5,Private rented: Other private rented or lives rent free,1268
+E07000114,Thanet,-8,Does not apply,0
+E07000114,Thanet,0,Owned: Owns outright,22731
+E07000114,Thanet,1,Owned: Owns with a mortgage or loan or shared ownership,15713
+E07000114,Thanet,2,Social rented: Rents from council or Local Authority,2940
+E07000114,Thanet,3,Social rented: Other social rented,4456
+E07000114,Thanet,4,Private rented: Private landlord or letting agency,14755
+E07000114,Thanet,5,Private rented: Other private rented or lives rent free,1605
+E07000115,Tonbridge and Malling,-8,Does not apply,0
+E07000115,Tonbridge and Malling,0,Owned: Owns outright,18379
+E07000115,Tonbridge and Malling,1,Owned: Owns with a mortgage or loan or shared ownership,20236
+E07000115,Tonbridge and Malling,2,Social rented: Rents from council or Local Authority,1001
+E07000115,Tonbridge and Malling,3,Social rented: Other social rented,7254
+E07000115,Tonbridge and Malling,4,Private rented: Private landlord or letting agency,5757
+E07000115,Tonbridge and Malling,5,Private rented: Other private rented or lives rent free,946
+E07000116,Tunbridge Wells,-8,Does not apply,0
+E07000116,Tunbridge Wells,0,Owned: Owns outright,16324
+E07000116,Tunbridge Wells,1,Owned: Owns with a mortgage or loan or shared ownership,15590
+E07000116,Tunbridge Wells,2,Social rented: Rents from council or Local Authority,946
+E07000116,Tunbridge Wells,3,Social rented: Other social rented,6083
+E07000116,Tunbridge Wells,4,Private rented: Private landlord or letting agency,8297
+E07000116,Tunbridge Wells,5,Private rented: Other private rented or lives rent free,983
+E07000117,Burnley,-8,Does not apply,0
+E07000117,Burnley,0,Owned: Owns outright,13051
+E07000117,Burnley,1,Owned: Owns with a mortgage or loan or shared ownership,10876
+E07000117,Burnley,2,Social rented: Rents from council or Local Authority,1747
+E07000117,Burnley,3,Social rented: Other social rented,4462
+E07000117,Burnley,4,Private rented: Private landlord or letting agency,8621
+E07000117,Burnley,5,Private rented: Other private rented or lives rent free,1114
+E07000118,Chorley,-8,Does not apply,0
+E07000118,Chorley,0,Owned: Owns outright,18558
+E07000118,Chorley,1,Owned: Owns with a mortgage or loan or shared ownership,17956
+E07000118,Chorley,2,Social rented: Rents from council or Local Authority,1218
+E07000118,Chorley,3,Social rented: Other social rented,5419
+E07000118,Chorley,4,Private rented: Private landlord or letting agency,6056
+E07000118,Chorley,5,Private rented: Other private rented or lives rent free,927
+E07000119,Fylde,-8,Does not apply,0
+E07000119,Fylde,0,Owned: Owns outright,16369
+E07000119,Fylde,1,Owned: Owns with a mortgage or loan or shared ownership,10863
+E07000119,Fylde,2,Social rented: Rents from council or Local Authority,404
+E07000119,Fylde,3,Social rented: Other social rented,2730
+E07000119,Fylde,4,Private rented: Private landlord or letting agency,6239
+E07000119,Fylde,5,Private rented: Other private rented or lives rent free,1001
+E07000120,Hyndburn,-8,Does not apply,0
+E07000120,Hyndburn,0,Owned: Owns outright,11917
+E07000120,Hyndburn,1,Owned: Owns with a mortgage or loan or shared ownership,10107
+E07000120,Hyndburn,2,Social rented: Rents from council or Local Authority,1222
+E07000120,Hyndburn,3,Social rented: Other social rented,3489
+E07000120,Hyndburn,4,Private rented: Private landlord or letting agency,7088
+E07000120,Hyndburn,5,Private rented: Other private rented or lives rent free,967
+E07000121,Lancaster,-8,Does not apply,0
+E07000121,Lancaster,0,Owned: Owns outright,23152
+E07000121,Lancaster,1,Owned: Owns with a mortgage or loan or shared ownership,17602
+E07000121,Lancaster,2,Social rented: Rents from council or Local Authority,3384
+E07000121,Lancaster,3,Social rented: Other social rented,2769
+E07000121,Lancaster,4,Private rented: Private landlord or letting agency,11460
+E07000121,Lancaster,5,Private rented: Other private rented or lives rent free,1611
+E07000122,Pendle,-8,Does not apply,0
+E07000122,Pendle,0,Owned: Owns outright,14127
+E07000122,Pendle,1,Owned: Owns with a mortgage or loan or shared ownership,10676
+E07000122,Pendle,2,Social rented: Rents from council or Local Authority,1421
+E07000122,Pendle,3,Social rented: Other social rented,3070
+E07000122,Pendle,4,Private rented: Private landlord or letting agency,7622
+E07000122,Pendle,5,Private rented: Other private rented or lives rent free,1150
+E07000123,Preston,-8,Does not apply,0
+E07000123,Preston,0,Owned: Owns outright,18219
+E07000123,Preston,1,Owned: Owns with a mortgage or loan or shared ownership,17035
+E07000123,Preston,2,Social rented: Rents from council or Local Authority,1882
+E07000123,Preston,3,Social rented: Other social rented,9101
+E07000123,Preston,4,Private rented: Private landlord or letting agency,11923
+E07000123,Preston,5,Private rented: Other private rented or lives rent free,1447
+E07000124,Ribble Valley,-8,Does not apply,0
+E07000124,Ribble Valley,0,Owned: Owns outright,11654
+E07000124,Ribble Valley,1,Owned: Owns with a mortgage or loan or shared ownership,8937
+E07000124,Ribble Valley,2,Social rented: Rents from council or Local Authority,292
+E07000124,Ribble Valley,3,Social rented: Other social rented,1859
+E07000124,Ribble Valley,4,Private rented: Private landlord or letting agency,3273
+E07000124,Ribble Valley,5,Private rented: Other private rented or lives rent free,732
+E07000125,Rossendale,-8,Does not apply,0
+E07000125,Rossendale,0,Owned: Owns outright,10560
+E07000125,Rossendale,1,Owned: Owns with a mortgage or loan or shared ownership,10262
+E07000125,Rossendale,2,Social rented: Rents from council or Local Authority,1186
+E07000125,Rossendale,3,Social rented: Other social rented,3328
+E07000125,Rossendale,4,Private rented: Private landlord or letting agency,4459
+E07000125,Rossendale,5,Private rented: Other private rented or lives rent free,766
+E07000126,South Ribble,-8,Does not apply,0
+E07000126,South Ribble,0,Owned: Owns outright,19428
+E07000126,South Ribble,1,Owned: Owns with a mortgage or loan or shared ownership,17895
+E07000126,South Ribble,2,Social rented: Rents from council or Local Authority,496
+E07000126,South Ribble,3,Social rented: Other social rented,4543
+E07000126,South Ribble,4,Private rented: Private landlord or letting agency,5339
+E07000126,South Ribble,5,Private rented: Other private rented or lives rent free,886
+E07000127,West Lancashire,-8,Does not apply,0
+E07000127,West Lancashire,0,Owned: Owns outright,18987
+E07000127,West Lancashire,1,Owned: Owns with a mortgage or loan or shared ownership,15780
+E07000127,West Lancashire,2,Social rented: Rents from council or Local Authority,5517
+E07000127,West Lancashire,3,Social rented: Other social rented,1441
+E07000127,West Lancashire,4,Private rented: Private landlord or letting agency,5754
+E07000127,West Lancashire,5,Private rented: Other private rented or lives rent free,1054
+E07000128,Wyre,-8,Does not apply,0
+E07000128,Wyre,0,Owned: Owns outright,22699
+E07000128,Wyre,1,Owned: Owns with a mortgage or loan or shared ownership,14944
+E07000128,Wyre,2,Social rented: Rents from council or Local Authority,544
+E07000128,Wyre,3,Social rented: Other social rented,3327
+E07000128,Wyre,4,Private rented: Private landlord or letting agency,8064
+E07000128,Wyre,5,Private rented: Other private rented or lives rent free,1189
+E07000129,Blaby,-8,Does not apply,0
+E07000129,Blaby,0,Owned: Owns outright,17012
+E07000129,Blaby,1,Owned: Owns with a mortgage or loan or shared ownership,16609
+E07000129,Blaby,2,Social rented: Rents from council or Local Authority,482
+E07000129,Blaby,3,Social rented: Other social rented,3015
+E07000129,Blaby,4,Private rented: Private landlord or letting agency,4761
+E07000129,Blaby,5,Private rented: Other private rented or lives rent free,696
+E07000130,Charnwood,-8,Does not apply,0
+E07000130,Charnwood,0,Owned: Owns outright,27619
+E07000130,Charnwood,1,Owned: Owns with a mortgage or loan or shared ownership,24654
+E07000130,Charnwood,2,Social rented: Rents from council or Local Authority,4921
+E07000130,Charnwood,3,Social rented: Other social rented,3711
+E07000130,Charnwood,4,Private rented: Private landlord or letting agency,11541
+E07000130,Charnwood,5,Private rented: Other private rented or lives rent free,1339
+E07000131,Harborough,-8,Does not apply,0
+E07000131,Harborough,0,Owned: Owns outright,16484
+E07000131,Harborough,1,Owned: Owns with a mortgage or loan or shared ownership,14953
+E07000131,Harborough,2,Social rented: Rents from council or Local Authority,405
+E07000131,Harborough,3,Social rented: Other social rented,3126
+E07000131,Harborough,4,Private rented: Private landlord or letting agency,4687
+E07000131,Harborough,5,Private rented: Other private rented or lives rent free,759
+E07000132,Hinckley and Bosworth,-8,Does not apply,0
+E07000132,Hinckley and Bosworth,0,Owned: Owns outright,19715
+E07000132,Hinckley and Bosworth,1,Owned: Owns with a mortgage or loan or shared ownership,17523
+E07000132,Hinckley and Bosworth,2,Social rented: Rents from council or Local Authority,3005
+E07000132,Hinckley and Bosworth,3,Social rented: Other social rented,2044
+E07000132,Hinckley and Bosworth,4,Private rented: Private landlord or letting agency,6199
+E07000132,Hinckley and Bosworth,5,Private rented: Other private rented or lives rent free,960
+E07000133,Melton,-8,Does not apply,0
+E07000133,Melton,0,Owned: Owns outright,9160
+E07000133,Melton,1,Owned: Owns with a mortgage or loan or shared ownership,7122
+E07000133,Melton,2,Social rented: Rents from council or Local Authority,1641
+E07000133,Melton,3,Social rented: Other social rented,775
+E07000133,Melton,4,Private rented: Private landlord or letting agency,3382
+E07000133,Melton,5,Private rented: Other private rented or lives rent free,521
+E07000134,North West Leicestershire,-8,Does not apply,0
+E07000134,North West Leicestershire,0,Owned: Owns outright,16599
+E07000134,North West Leicestershire,1,Owned: Owns with a mortgage or loan or shared ownership,16169
+E07000134,North West Leicestershire,2,Social rented: Rents from council or Local Authority,4066
+E07000134,North West Leicestershire,3,Social rented: Other social rented,2023
+E07000134,North West Leicestershire,4,Private rented: Private landlord or letting agency,5385
+E07000134,North West Leicestershire,5,Private rented: Other private rented or lives rent free,732
+E07000135,Oadby and Wigston,-8,Does not apply,0
+E07000135,Oadby and Wigston,0,Owned: Owns outright,9711
+E07000135,Oadby and Wigston,1,Owned: Owns with a mortgage or loan or shared ownership,7462
+E07000135,Oadby and Wigston,2,Social rented: Rents from council or Local Authority,1116
+E07000135,Oadby and Wigston,3,Social rented: Other social rented,677
+E07000135,Oadby and Wigston,4,Private rented: Private landlord or letting agency,3248
+E07000135,Oadby and Wigston,5,Private rented: Other private rented or lives rent free,400
+E07000136,Boston,-8,Does not apply,0
+E07000136,Boston,0,Owned: Owns outright,9967
+E07000136,Boston,1,Owned: Owns with a mortgage or loan or shared ownership,7714
+E07000136,Boston,2,Social rented: Rents from council or Local Authority,1969
+E07000136,Boston,3,Social rented: Other social rented,3757
+E07000136,Boston,4,Private rented: Private landlord or letting agency,5425
+E07000136,Boston,5,Private rented: Other private rented or lives rent free,572
+E07000137,East Lindsey,-8,Does not apply,0
+E07000137,East Lindsey,0,Owned: Owns outright,29907
+E07000137,East Lindsey,1,Owned: Owns with a mortgage or loan or shared ownership,14424
+E07000137,East Lindsey,2,Social rented: Rents from council or Local Authority,1495
+E07000137,East Lindsey,3,Social rented: Other social rented,5800
+E07000137,East Lindsey,4,Private rented: Private landlord or letting agency,10971
+E07000137,East Lindsey,5,Private rented: Other private rented or lives rent free,2157
+E07000138,Lincoln,-8,Does not apply,0
+E07000138,Lincoln,0,Owned: Owns outright,11092
+E07000138,Lincoln,1,Owned: Owns with a mortgage or loan or shared ownership,10761
+E07000138,Lincoln,2,Social rented: Rents from council or Local Authority,7162
+E07000138,Lincoln,3,Social rented: Other social rented,1791
+E07000138,Lincoln,4,Private rented: Private landlord or letting agency,10634
+E07000138,Lincoln,5,Private rented: Other private rented or lives rent free,1066
+E07000139,North Kesteven,-8,Does not apply,0
+E07000139,North Kesteven,0,Owned: Owns outright,20386
+E07000139,North Kesteven,1,Owned: Owns with a mortgage or loan or shared ownership,17260
+E07000139,North Kesteven,2,Social rented: Rents from council or Local Authority,3685
+E07000139,North Kesteven,3,Social rented: Other social rented,1428
+E07000139,North Kesteven,4,Private rented: Private landlord or letting agency,6299
+E07000139,North Kesteven,5,Private rented: Other private rented or lives rent free,1931
+E07000140,South Holland,-8,Does not apply,0
+E07000140,South Holland,0,Owned: Owns outright,16604
+E07000140,South Holland,1,Owned: Owns with a mortgage or loan or shared ownership,12153
+E07000140,South Holland,2,Social rented: Rents from council or Local Authority,3693
+E07000140,South Holland,3,Social rented: Other social rented,1243
+E07000140,South Holland,4,Private rented: Private landlord or letting agency,6055
+E07000140,South Holland,5,Private rented: Other private rented or lives rent free,955
+E07000141,South Kesteven,-8,Does not apply,0
+E07000141,South Kesteven,0,Owned: Owns outright,23765
+E07000141,South Kesteven,1,Owned: Owns with a mortgage or loan or shared ownership,19809
+E07000141,South Kesteven,2,Social rented: Rents from council or Local Authority,5536
+E07000141,South Kesteven,3,Social rented: Other social rented,2315
+E07000141,South Kesteven,4,Private rented: Private landlord or letting agency,9998
+E07000141,South Kesteven,5,Private rented: Other private rented or lives rent free,1424
+E07000142,West Lindsey,-8,Does not apply,0
+E07000142,West Lindsey,0,Owned: Owns outright,17553
+E07000142,West Lindsey,1,Owned: Owns with a mortgage or loan or shared ownership,12597
+E07000142,West Lindsey,2,Social rented: Rents from council or Local Authority,1190
+E07000142,West Lindsey,3,Social rented: Other social rented,3415
+E07000142,West Lindsey,4,Private rented: Private landlord or letting agency,6431
+E07000142,West Lindsey,5,Private rented: Other private rented or lives rent free,1159
+E07000143,Breckland,-8,Does not apply,0
+E07000143,Breckland,0,Owned: Owns outright,24126
+E07000143,Breckland,1,Owned: Owns with a mortgage or loan or shared ownership,16769
+E07000143,Breckland,2,Social rented: Rents from council or Local Authority,1653
+E07000143,Breckland,3,Social rented: Other social rented,6854
+E07000143,Breckland,4,Private rented: Private landlord or letting agency,9186
+E07000143,Breckland,5,Private rented: Other private rented or lives rent free,1771
+E07000144,Broadland,-8,Does not apply,0
+E07000144,Broadland,0,Owned: Owns outright,26448
+E07000144,Broadland,1,Owned: Owns with a mortgage or loan or shared ownership,18586
+E07000144,Broadland,2,Social rented: Rents from council or Local Authority,650
+E07000144,Broadland,3,Social rented: Other social rented,4969
+E07000144,Broadland,4,Private rented: Private landlord or letting agency,5951
+E07000144,Broadland,5,Private rented: Other private rented or lives rent free,1156
+E07000145,Great Yarmouth,-8,Does not apply,0
+E07000145,Great Yarmouth,0,Owned: Owns outright,16978
+E07000145,Great Yarmouth,1,Owned: Owns with a mortgage or loan or shared ownership,10671
+E07000145,Great Yarmouth,2,Social rented: Rents from council or Local Authority,5464
+E07000145,Great Yarmouth,3,Social rented: Other social rented,1749
+E07000145,Great Yarmouth,4,Private rented: Private landlord or letting agency,8504
+E07000145,Great Yarmouth,5,Private rented: Other private rented or lives rent free,1179
+E07000146,King's Lynn and West Norfolk,-8,Does not apply,0
+E07000146,King's Lynn and West Norfolk,0,Owned: Owns outright,28053
+E07000146,King's Lynn and West Norfolk,1,Owned: Owns with a mortgage or loan or shared ownership,17473
+E07000146,King's Lynn and West Norfolk,2,Social rented: Rents from council or Local Authority,2167
+E07000146,King's Lynn and West Norfolk,3,Social rented: Other social rented,7013
+E07000146,King's Lynn and West Norfolk,4,Private rented: Private landlord or letting agency,10482
+E07000146,King's Lynn and West Norfolk,5,Private rented: Other private rented or lives rent free,2276
+E07000147,North Norfolk,-8,Does not apply,0
+E07000147,North Norfolk,0,Owned: Owns outright,23509
+E07000147,North Norfolk,1,Owned: Owns with a mortgage or loan or shared ownership,10036
+E07000147,North Norfolk,2,Social rented: Rents from council or Local Authority,998
+E07000147,North Norfolk,3,Social rented: Other social rented,5277
+E07000147,North Norfolk,4,Private rented: Private landlord or letting agency,7170
+E07000147,North Norfolk,5,Private rented: Other private rented or lives rent free,1386
+E07000148,Norwich,-8,Does not apply,0
+E07000148,Norwich,0,Owned: Owns outright,14312
+E07000148,Norwich,1,Owned: Owns with a mortgage or loan or shared ownership,13160
+E07000148,Norwich,2,Social rented: Rents from council or Local Authority,14240
+E07000148,Norwich,3,Social rented: Other social rented,5278
+E07000148,Norwich,4,Private rented: Private landlord or letting agency,15986
+E07000148,Norwich,5,Private rented: Other private rented or lives rent free,1483
+E07000149,South Norfolk,-8,Does not apply,0
+E07000149,South Norfolk,0,Owned: Owns outright,25720
+E07000149,South Norfolk,1,Owned: Owns with a mortgage or loan or shared ownership,19931
+E07000149,South Norfolk,2,Social rented: Rents from council or Local Authority,1411
+E07000149,South Norfolk,3,Social rented: Other social rented,5773
+E07000149,South Norfolk,4,Private rented: Private landlord or letting agency,7213
+E07000149,South Norfolk,5,Private rented: Other private rented or lives rent free,1333
+E07000163,Craven,-8,Does not apply,0
+E07000163,Craven,0,Owned: Owns outright,11826
+E07000163,Craven,1,Owned: Owns with a mortgage or loan or shared ownership,7021
+E07000163,Craven,2,Social rented: Rents from council or Local Authority,457
+E07000163,Craven,3,Social rented: Other social rented,2037
+E07000163,Craven,4,Private rented: Private landlord or letting agency,3963
+E07000163,Craven,5,Private rented: Other private rented or lives rent free,765
+E07000164,Hambleton,-8,Does not apply,0
+E07000164,Hambleton,0,Owned: Owns outright,17772
+E07000164,Hambleton,1,Owned: Owns with a mortgage or loan or shared ownership,10730
+E07000164,Hambleton,2,Social rented: Rents from council or Local Authority,575
+E07000164,Hambleton,3,Social rented: Other social rented,4893
+E07000164,Hambleton,4,Private rented: Private landlord or letting agency,5245
+E07000164,Hambleton,5,Private rented: Other private rented or lives rent free,1587
+E07000165,Harrogate,-8,Does not apply,0
+E07000165,Harrogate,0,Owned: Owns outright,28936
+E07000165,Harrogate,1,Owned: Owns with a mortgage or loan or shared ownership,21618
+E07000165,Harrogate,2,Social rented: Rents from council or Local Authority,3740
+E07000165,Harrogate,3,Social rented: Other social rented,3282
+E07000165,Harrogate,4,Private rented: Private landlord or letting agency,11484
+E07000165,Harrogate,5,Private rented: Other private rented or lives rent free,2109
+E07000166,Richmondshire,-8,Does not apply,0
+E07000166,Richmondshire,0,Owned: Owns outright,8518
+E07000166,Richmondshire,1,Owned: Owns with a mortgage or loan or shared ownership,5092
+E07000166,Richmondshire,2,Social rented: Rents from council or Local Authority,1450
+E07000166,Richmondshire,3,Social rented: Other social rented,991
+E07000166,Richmondshire,4,Private rented: Private landlord or letting agency,3142
+E07000166,Richmondshire,5,Private rented: Other private rented or lives rent free,1752
+E07000167,Ryedale,-8,Does not apply,0
+E07000167,Ryedale,0,Owned: Owns outright,10820
+E07000167,Ryedale,1,Owned: Owns with a mortgage or loan or shared ownership,5876
+E07000167,Ryedale,2,Social rented: Rents from council or Local Authority,331
+E07000167,Ryedale,3,Social rented: Other social rented,2840
+E07000167,Ryedale,4,Private rented: Private landlord or letting agency,3958
+E07000167,Ryedale,5,Private rented: Other private rented or lives rent free,889
+E07000168,Scarborough,-8,Does not apply,0
+E07000168,Scarborough,0,Owned: Owns outright,21164
+E07000168,Scarborough,1,Owned: Owns with a mortgage or loan or shared ownership,11792
+E07000168,Scarborough,2,Social rented: Rents from council or Local Authority,1250
+E07000168,Scarborough,3,Social rented: Other social rented,5820
+E07000168,Scarborough,4,Private rented: Private landlord or letting agency,9748
+E07000168,Scarborough,5,Private rented: Other private rented or lives rent free,1350
+E07000169,Selby,-8,Does not apply,0
+E07000169,Selby,0,Owned: Owns outright,14590
+E07000169,Selby,1,Owned: Owns with a mortgage or loan or shared ownership,14770
+E07000169,Selby,2,Social rented: Rents from council or Local Authority,2923
+E07000169,Selby,3,Social rented: Other social rented,1928
+E07000169,Selby,4,Private rented: Private landlord or letting agency,4571
+E07000169,Selby,5,Private rented: Other private rented or lives rent free,778
+E07000170,Ashfield,-8,Does not apply,0
+E07000170,Ashfield,0,Owned: Owns outright,19484
+E07000170,Ashfield,1,Owned: Owns with a mortgage or loan or shared ownership,17487
+E07000170,Ashfield,2,Social rented: Rents from council or Local Authority,6135
+E07000170,Ashfield,3,Social rented: Other social rented,1995
+E07000170,Ashfield,4,Private rented: Private landlord or letting agency,8261
+E07000170,Ashfield,5,Private rented: Other private rented or lives rent free,1146
+E07000171,Bassetlaw,-8,Does not apply,0
+E07000171,Bassetlaw,0,Owned: Owns outright,19442
+E07000171,Bassetlaw,1,Owned: Owns with a mortgage or loan or shared ownership,15889
+E07000171,Bassetlaw,2,Social rented: Rents from council or Local Authority,6124
+E07000171,Bassetlaw,3,Social rented: Other social rented,1573
+E07000171,Bassetlaw,4,Private rented: Private landlord or letting agency,7210
+E07000171,Bassetlaw,5,Private rented: Other private rented or lives rent free,1221
+E07000172,Broxtowe,-8,Does not apply,0
+E07000172,Broxtowe,0,Owned: Owns outright,19301
+E07000172,Broxtowe,1,Owned: Owns with a mortgage or loan or shared ownership,15303
+E07000172,Broxtowe,2,Social rented: Rents from council or Local Authority,4029
+E07000172,Broxtowe,3,Social rented: Other social rented,1308
+E07000172,Broxtowe,4,Private rented: Private landlord or letting agency,7409
+E07000172,Broxtowe,5,Private rented: Other private rented or lives rent free,1011
+E07000173,Gedling,-8,Does not apply,0
+E07000173,Gedling,0,Owned: Owns outright,20649
+E07000173,Gedling,1,Owned: Owns with a mortgage or loan or shared ownership,17687
+E07000173,Gedling,2,Social rented: Rents from council or Local Authority,2084
+E07000173,Gedling,3,Social rented: Other social rented,2911
+E07000173,Gedling,4,Private rented: Private landlord or letting agency,7136
+E07000173,Gedling,5,Private rented: Other private rented or lives rent free,1084
+E07000174,Mansfield,-8,Does not apply,0
+E07000174,Mansfield,0,Owned: Owns outright,16668
+E07000174,Mansfield,1,Owned: Owns with a mortgage or loan or shared ownership,14302
+E07000174,Mansfield,2,Social rented: Rents from council or Local Authority,5738
+E07000174,Mansfield,3,Social rented: Other social rented,2127
+E07000174,Mansfield,4,Private rented: Private landlord or letting agency,8156
+E07000174,Mansfield,5,Private rented: Other private rented or lives rent free,1039
+E07000175,Newark and Sherwood,-8,Does not apply,0
+E07000175,Newark and Sherwood,0,Owned: Owns outright,20525
+E07000175,Newark and Sherwood,1,Owned: Owns with a mortgage or loan or shared ownership,16704
+E07000175,Newark and Sherwood,2,Social rented: Rents from council or Local Authority,5133
+E07000175,Newark and Sherwood,3,Social rented: Other social rented,2280
+E07000175,Newark and Sherwood,4,Private rented: Private landlord or letting agency,7476
+E07000175,Newark and Sherwood,5,Private rented: Other private rented or lives rent free,1213
+E07000176,Rushcliffe,-8,Does not apply,0
+E07000176,Rushcliffe,0,Owned: Owns outright,20508
+E07000176,Rushcliffe,1,Owned: Owns with a mortgage or loan or shared ownership,17777
+E07000176,Rushcliffe,2,Social rented: Rents from council or Local Authority,886
+E07000176,Rushcliffe,3,Social rented: Other social rented,3387
+E07000176,Rushcliffe,4,Private rented: Private landlord or letting agency,6450
+E07000176,Rushcliffe,5,Private rented: Other private rented or lives rent free,875
+E07000177,Cherwell,-8,Does not apply,0
+E07000177,Cherwell,0,Owned: Owns outright,21431
+E07000177,Cherwell,1,Owned: Owns with a mortgage or loan or shared ownership,22661
+E07000177,Cherwell,2,Social rented: Rents from council or Local Authority,1427
+E07000177,Cherwell,3,Social rented: Other social rented,7315
+E07000177,Cherwell,4,Private rented: Private landlord or letting agency,11453
+E07000177,Cherwell,5,Private rented: Other private rented or lives rent free,1607
+E07000178,Oxford,-8,Does not apply,0
+E07000178,Oxford,0,Owned: Owns outright,13993
+E07000178,Oxford,1,Owned: Owns with a mortgage or loan or shared ownership,11835
+E07000178,Oxford,2,Social rented: Rents from council or Local Authority,7414
+E07000178,Oxford,3,Social rented: Other social rented,4140
+E07000178,Oxford,4,Private rented: Private landlord or letting agency,16150
+E07000178,Oxford,5,Private rented: Other private rented or lives rent free,1706
+E07000179,South Oxfordshire,-8,Does not apply,0
+E07000179,South Oxfordshire,0,Owned: Owns outright,23180
+E07000179,South Oxfordshire,1,Owned: Owns with a mortgage or loan or shared ownership,21130
+E07000179,South Oxfordshire,2,Social rented: Rents from council or Local Authority,1092
+E07000179,South Oxfordshire,3,Social rented: Other social rented,6294
+E07000179,South Oxfordshire,4,Private rented: Private landlord or letting agency,7921
+E07000179,South Oxfordshire,5,Private rented: Other private rented or lives rent free,1880
+E07000180,Vale of White Horse,-8,Does not apply,0
+E07000180,Vale of White Horse,0,Owned: Owns outright,20812
+E07000180,Vale of White Horse,1,Owned: Owns with a mortgage or loan or shared ownership,19455
+E07000180,Vale of White Horse,2,Social rented: Rents from council or Local Authority,1260
+E07000180,Vale of White Horse,3,Social rented: Other social rented,6946
+E07000180,Vale of White Horse,4,Private rented: Private landlord or letting agency,7003
+E07000180,Vale of White Horse,5,Private rented: Other private rented or lives rent free,2023
+E07000181,West Oxfordshire,-8,Does not apply,0
+E07000181,West Oxfordshire,0,Owned: Owns outright,17963
+E07000181,West Oxfordshire,1,Owned: Owns with a mortgage or loan or shared ownership,15077
+E07000181,West Oxfordshire,2,Social rented: Rents from council or Local Authority,788
+E07000181,West Oxfordshire,3,Social rented: Other social rented,5575
+E07000181,West Oxfordshire,4,Private rented: Private landlord or letting agency,6580
+E07000181,West Oxfordshire,5,Private rented: Other private rented or lives rent free,1998
+E07000187,Mendip,-8,Does not apply,0
+E07000187,Mendip,0,Owned: Owns outright,20657
+E07000187,Mendip,1,Owned: Owns with a mortgage or loan or shared ownership,14489
+E07000187,Mendip,2,Social rented: Rents from council or Local Authority,1149
+E07000187,Mendip,3,Social rented: Other social rented,4902
+E07000187,Mendip,4,Private rented: Private landlord or letting agency,7770
+E07000187,Mendip,5,Private rented: Other private rented or lives rent free,1327
+E07000188,Sedgemoor,-8,Does not apply,0
+E07000188,Sedgemoor,0,Owned: Owns outright,21144
+E07000188,Sedgemoor,1,Owned: Owns with a mortgage or loan or shared ownership,16170
+E07000188,Sedgemoor,2,Social rented: Rents from council or Local Authority,3618
+E07000188,Sedgemoor,3,Social rented: Other social rented,3269
+E07000188,Sedgemoor,4,Private rented: Private landlord or letting agency,8494
+E07000188,Sedgemoor,5,Private rented: Other private rented or lives rent free,1209
+E07000189,South Somerset,-8,Does not apply,0
+E07000189,South Somerset,0,Owned: Owns outright,31355
+E07000189,South Somerset,1,Owned: Owns with a mortgage or loan or shared ownership,21066
+E07000189,South Somerset,2,Social rented: Rents from council or Local Authority,2166
+E07000189,South Somerset,3,Social rented: Other social rented,8567
+E07000189,South Somerset,4,Private rented: Private landlord or letting agency,10552
+E07000189,South Somerset,5,Private rented: Other private rented or lives rent free,2230
+E07000192,Cannock Chase,-8,Does not apply,0
+E07000192,Cannock Chase,0,Owned: Owns outright,14718
+E07000192,Cannock Chase,1,Owned: Owns with a mortgage or loan or shared ownership,14735
+E07000192,Cannock Chase,2,Social rented: Rents from council or Local Authority,4894
+E07000192,Cannock Chase,3,Social rented: Other social rented,2137
+E07000192,Cannock Chase,4,Private rented: Private landlord or letting agency,6109
+E07000192,Cannock Chase,5,Private rented: Other private rented or lives rent free,863
+E07000193,East Staffordshire,-8,Does not apply,0
+E07000193,East Staffordshire,0,Owned: Owns outright,18695
+E07000193,East Staffordshire,1,Owned: Owns with a mortgage or loan or shared ownership,15940
+E07000193,East Staffordshire,2,Social rented: Rents from council or Local Authority,2276
+E07000193,East Staffordshire,3,Social rented: Other social rented,4358
+E07000193,East Staffordshire,4,Private rented: Private landlord or letting agency,8846
+E07000193,East Staffordshire,5,Private rented: Other private rented or lives rent free,1178
+E07000194,Lichfield,-8,Does not apply,0
+E07000194,Lichfield,0,Owned: Owns outright,18902
+E07000194,Lichfield,1,Owned: Owns with a mortgage or loan or shared ownership,14971
+E07000194,Lichfield,2,Social rented: Rents from council or Local Authority,738
+E07000194,Lichfield,3,Social rented: Other social rented,5194
+E07000194,Lichfield,4,Private rented: Private landlord or letting agency,4926
+E07000194,Lichfield,5,Private rented: Other private rented or lives rent free,899
+E07000195,Newcastle-under-Lyme,-8,Does not apply,0
+E07000195,Newcastle-under-Lyme,0,Owned: Owns outright,20435
+E07000195,Newcastle-under-Lyme,1,Owned: Owns with a mortgage or loan or shared ownership,16066
+E07000195,Newcastle-under-Lyme,2,Social rented: Rents from council or Local Authority,2774
+E07000195,Newcastle-under-Lyme,3,Social rented: Other social rented,6368
+E07000195,Newcastle-under-Lyme,4,Private rented: Private landlord or letting agency,6613
+E07000195,Newcastle-under-Lyme,5,Private rented: Other private rented or lives rent free,1167
+E07000196,South Staffordshire,-8,Does not apply,0
+E07000196,South Staffordshire,0,Owned: Owns outright,20310
+E07000196,South Staffordshire,1,Owned: Owns with a mortgage or loan or shared ownership,14451
+E07000196,South Staffordshire,2,Social rented: Rents from council or Local Authority,625
+E07000196,South Staffordshire,3,Social rented: Other social rented,5846
+E07000196,South Staffordshire,4,Private rented: Private landlord or letting agency,4126
+E07000196,South Staffordshire,5,Private rented: Other private rented or lives rent free,761
+E07000197,Stafford,-8,Does not apply,0
+E07000197,Stafford,0,Owned: Owns outright,23474
+E07000197,Stafford,1,Owned: Owns with a mortgage or loan or shared ownership,19058
+E07000197,Stafford,2,Social rented: Rents from council or Local Authority,2042
+E07000197,Stafford,3,Social rented: Other social rented,6104
+E07000197,Stafford,4,Private rented: Private landlord or letting agency,7788
+E07000197,Stafford,5,Private rented: Other private rented or lives rent free,1581
+E07000198,Staffordshire Moorlands,-8,Does not apply,0
+E07000198,Staffordshire Moorlands,0,Owned: Owns outright,20401
+E07000198,Staffordshire Moorlands,1,Owned: Owns with a mortgage or loan or shared ownership,12904
+E07000198,Staffordshire Moorlands,2,Social rented: Rents from council or Local Authority,1069
+E07000198,Staffordshire Moorlands,3,Social rented: Other social rented,2584
+E07000198,Staffordshire Moorlands,4,Private rented: Private landlord or letting agency,4501
+E07000198,Staffordshire Moorlands,5,Private rented: Other private rented or lives rent free,896
+E07000199,Tamworth,-8,Does not apply,0
+E07000199,Tamworth,0,Owned: Owns outright,10967
+E07000199,Tamworth,1,Owned: Owns with a mortgage or loan or shared ownership,11303
+E07000199,Tamworth,2,Social rented: Rents from council or Local Authority,4104
+E07000199,Tamworth,3,Social rented: Other social rented,1822
+E07000199,Tamworth,4,Private rented: Private landlord or letting agency,4192
+E07000199,Tamworth,5,Private rented: Other private rented or lives rent free,507
+E07000200,Babergh,-8,Does not apply,0
+E07000200,Babergh,0,Owned: Owns outright,17460
+E07000200,Babergh,1,Owned: Owns with a mortgage or loan or shared ownership,11387
+E07000200,Babergh,2,Social rented: Rents from council or Local Authority,3370
+E07000200,Babergh,3,Social rented: Other social rented,1963
+E07000200,Babergh,4,Private rented: Private landlord or letting agency,4910
+E07000200,Babergh,5,Private rented: Other private rented or lives rent free,1110
+E07000202,Ipswich,-8,Does not apply,0
+E07000202,Ipswich,0,Owned: Owns outright,16810
+E07000202,Ipswich,1,Owned: Owns with a mortgage or loan or shared ownership,16535
+E07000202,Ipswich,2,Social rented: Rents from council or Local Authority,7614
+E07000202,Ipswich,3,Social rented: Other social rented,4754
+E07000202,Ipswich,4,Private rented: Private landlord or letting agency,12583
+E07000202,Ipswich,5,Private rented: Other private rented or lives rent free,1211
+E07000203,Mid Suffolk,-8,Does not apply,0
+E07000203,Mid Suffolk,0,Owned: Owns outright,19151
+E07000203,Mid Suffolk,1,Owned: Owns with a mortgage or loan or shared ownership,14053
+E07000203,Mid Suffolk,2,Social rented: Rents from council or Local Authority,3141
+E07000203,Mid Suffolk,3,Social rented: Other social rented,1870
+E07000203,Mid Suffolk,4,Private rented: Private landlord or letting agency,4874
+E07000203,Mid Suffolk,5,Private rented: Other private rented or lives rent free,1255
+E07000207,Elmbridge,-8,Does not apply,0
+E07000207,Elmbridge,0,Owned: Owns outright,18809
+E07000207,Elmbridge,1,Owned: Owns with a mortgage or loan or shared ownership,21418
+E07000207,Elmbridge,2,Social rented: Rents from council or Local Authority,939
+E07000207,Elmbridge,3,Social rented: Other social rented,4669
+E07000207,Elmbridge,4,Private rented: Private landlord or letting agency,8828
+E07000207,Elmbridge,5,Private rented: Other private rented or lives rent free,924
+E07000208,Epsom and Ewell,-8,Does not apply,0
+E07000208,Epsom and Ewell,0,Owned: Owns outright,11364
+E07000208,Epsom and Ewell,1,Owned: Owns with a mortgage or loan or shared ownership,12161
+E07000208,Epsom and Ewell,2,Social rented: Rents from council or Local Authority,193
+E07000208,Epsom and Ewell,3,Social rented: Other social rented,2550
+E07000208,Epsom and Ewell,4,Private rented: Private landlord or letting agency,4561
+E07000208,Epsom and Ewell,5,Private rented: Other private rented or lives rent free,492
+E07000209,Guildford,-8,Does not apply,0
+E07000209,Guildford,0,Owned: Owns outright,19267
+E07000209,Guildford,1,Owned: Owns with a mortgage or loan or shared ownership,18446
+E07000209,Guildford,2,Social rented: Rents from council or Local Authority,4864
+E07000209,Guildford,3,Social rented: Other social rented,2202
+E07000209,Guildford,4,Private rented: Private landlord or letting agency,9552
+E07000209,Guildford,5,Private rented: Other private rented or lives rent free,1429
+E07000210,Mole Valley,-8,Does not apply,0
+E07000210,Mole Valley,0,Owned: Owns outright,15136
+E07000210,Mole Valley,1,Owned: Owns with a mortgage or loan or shared ownership,12433
+E07000210,Mole Valley,2,Social rented: Rents from council or Local Authority,574
+E07000210,Mole Valley,3,Social rented: Other social rented,3753
+E07000210,Mole Valley,4,Private rented: Private landlord or letting agency,4506
+E07000210,Mole Valley,5,Private rented: Other private rented or lives rent free,737
+E07000211,Reigate and Banstead,-8,Does not apply,0
+E07000211,Reigate and Banstead,0,Owned: Owns outright,20196
+E07000211,Reigate and Banstead,1,Owned: Owns with a mortgage or loan or shared ownership,23343
+E07000211,Reigate and Banstead,2,Social rented: Rents from council or Local Authority,1082
+E07000211,Reigate and Banstead,3,Social rented: Other social rented,5825
+E07000211,Reigate and Banstead,4,Private rented: Private landlord or letting agency,8482
+E07000211,Reigate and Banstead,5,Private rented: Other private rented or lives rent free,921
+E07000212,Runnymede,-8,Does not apply,0
+E07000212,Runnymede,0,Owned: Owns outright,11431
+E07000212,Runnymede,1,Owned: Owns with a mortgage or loan or shared ownership,12216
+E07000212,Runnymede,2,Social rented: Rents from council or Local Authority,2771
+E07000212,Runnymede,3,Social rented: Other social rented,1728
+E07000212,Runnymede,4,Private rented: Private landlord or letting agency,5907
+E07000212,Runnymede,5,Private rented: Other private rented or lives rent free,785
+E07000213,Spelthorne,-8,Does not apply,0
+E07000213,Spelthorne,0,Owned: Owns outright,13980
+E07000213,Spelthorne,1,Owned: Owns with a mortgage or loan or shared ownership,15020
+E07000213,Spelthorne,2,Social rented: Rents from council or Local Authority,771
+E07000213,Spelthorne,3,Social rented: Other social rented,4525
+E07000213,Spelthorne,4,Private rented: Private landlord or letting agency,6783
+E07000213,Spelthorne,5,Private rented: Other private rented or lives rent free,727
+E07000214,Surrey Heath,-8,Does not apply,0
+E07000214,Surrey Heath,0,Owned: Owns outright,13156
+E07000214,Surrey Heath,1,Owned: Owns with a mortgage or loan or shared ownership,13859
+E07000214,Surrey Heath,2,Social rented: Rents from council or Local Authority,477
+E07000214,Surrey Heath,3,Social rented: Other social rented,2972
+E07000214,Surrey Heath,4,Private rented: Private landlord or letting agency,4611
+E07000214,Surrey Heath,5,Private rented: Other private rented or lives rent free,933
+E07000215,Tandridge,-8,Does not apply,0
+E07000215,Tandridge,0,Owned: Owns outright,13326
+E07000215,Tandridge,1,Owned: Owns with a mortgage or loan or shared ownership,13615
+E07000215,Tandridge,2,Social rented: Rents from council or Local Authority,2496
+E07000215,Tandridge,3,Social rented: Other social rented,1443
+E07000215,Tandridge,4,Private rented: Private landlord or letting agency,3973
+E07000215,Tandridge,5,Private rented: Other private rented or lives rent free,770
+E07000216,Waverley,-8,Does not apply,0
+E07000216,Waverley,0,Owned: Owns outright,20039
+E07000216,Waverley,1,Owned: Owns with a mortgage or loan or shared ownership,18240
+E07000216,Waverley,2,Social rented: Rents from council or Local Authority,4657
+E07000216,Waverley,3,Social rented: Other social rented,1770
+E07000216,Waverley,4,Private rented: Private landlord or letting agency,6494
+E07000216,Waverley,5,Private rented: Other private rented or lives rent free,1248
+E07000217,Woking,-8,Does not apply,0
+E07000217,Woking,0,Owned: Owns outright,13251
+E07000217,Woking,1,Owned: Owns with a mortgage or loan or shared ownership,14618
+E07000217,Woking,2,Social rented: Rents from council or Local Authority,2965
+E07000217,Woking,3,Social rented: Other social rented,1827
+E07000217,Woking,4,Private rented: Private landlord or letting agency,7966
+E07000217,Woking,5,Private rented: Other private rented or lives rent free,811
+E07000218,North Warwickshire,-8,Does not apply,0
+E07000218,North Warwickshire,0,Owned: Owns outright,10558
+E07000218,North Warwickshire,1,Owned: Owns with a mortgage or loan or shared ownership,9117
+E07000218,North Warwickshire,2,Social rented: Rents from council or Local Authority,2490
+E07000218,North Warwickshire,3,Social rented: Other social rented,1262
+E07000218,North Warwickshire,4,Private rented: Private landlord or letting agency,3588
+E07000218,North Warwickshire,5,Private rented: Other private rented or lives rent free,566
+E07000219,Nuneaton and Bedworth,-8,Does not apply,0
+E07000219,Nuneaton and Bedworth,0,Owned: Owns outright,19829
+E07000219,Nuneaton and Bedworth,1,Owned: Owns with a mortgage or loan or shared ownership,19136
+E07000219,Nuneaton and Bedworth,2,Social rented: Rents from council or Local Authority,5412
+E07000219,Nuneaton and Bedworth,3,Social rented: Other social rented,2745
+E07000219,Nuneaton and Bedworth,4,Private rented: Private landlord or letting agency,8355
+E07000219,Nuneaton and Bedworth,5,Private rented: Other private rented or lives rent free,1108
+E07000220,Rugby,-8,Does not apply,0
+E07000220,Rugby,0,Owned: Owns outright,15703
+E07000220,Rugby,1,Owned: Owns with a mortgage or loan or shared ownership,16704
+E07000220,Rugby,2,Social rented: Rents from council or Local Authority,3399
+E07000220,Rugby,3,Social rented: Other social rented,2675
+E07000220,Rugby,4,Private rented: Private landlord or letting agency,7460
+E07000220,Rugby,5,Private rented: Other private rented or lives rent free,1072
+E07000221,Stratford-on-Avon,-8,Does not apply,0
+E07000221,Stratford-on-Avon,0,Owned: Owns outright,24156
+E07000221,Stratford-on-Avon,1,Owned: Owns with a mortgage or loan or shared ownership,19028
+E07000221,Stratford-on-Avon,2,Social rented: Rents from council or Local Authority,958
+E07000221,Stratford-on-Avon,3,Social rented: Other social rented,6948
+E07000221,Stratford-on-Avon,4,Private rented: Private landlord or letting agency,7055
+E07000221,Stratford-on-Avon,5,Private rented: Other private rented or lives rent free,1319
+E07000222,Warwick,-8,Does not apply,0
+E07000222,Warwick,0,Owned: Owns outright,21411
+E07000222,Warwick,1,Owned: Owns with a mortgage or loan or shared ownership,20440
+E07000222,Warwick,2,Social rented: Rents from council or Local Authority,5251
+E07000222,Warwick,3,Social rented: Other social rented,3553
+E07000222,Warwick,4,Private rented: Private landlord or letting agency,10844
+E07000222,Warwick,5,Private rented: Other private rented or lives rent free,1120
+E07000223,Adur,-8,Does not apply,0
+E07000223,Adur,0,Owned: Owns outright,11101
+E07000223,Adur,1,Owned: Owns with a mortgage or loan or shared ownership,9019
+E07000223,Adur,2,Social rented: Rents from council or Local Authority,2431
+E07000223,Adur,3,Social rented: Other social rented,1005
+E07000223,Adur,4,Private rented: Private landlord or letting agency,3537
+E07000223,Adur,5,Private rented: Other private rented or lives rent free,585
+E07000224,Arun,-8,Does not apply,0
+E07000224,Arun,0,Owned: Owns outright,32182
+E07000224,Arun,1,Owned: Owns with a mortgage or loan or shared ownership,20424
+E07000224,Arun,2,Social rented: Rents from council or Local Authority,3210
+E07000224,Arun,3,Social rented: Other social rented,3564
+E07000224,Arun,4,Private rented: Private landlord or letting agency,11801
+E07000224,Arun,5,Private rented: Other private rented or lives rent free,1480
+E07000225,Chichester,-8,Does not apply,0
+E07000225,Chichester,0,Owned: Owns outright,22715
+E07000225,Chichester,1,Owned: Owns with a mortgage or loan or shared ownership,13413
+E07000225,Chichester,2,Social rented: Rents from council or Local Authority,1057
+E07000225,Chichester,3,Social rented: Other social rented,7100
+E07000225,Chichester,4,Private rented: Private landlord or letting agency,8089
+E07000225,Chichester,5,Private rented: Other private rented or lives rent free,1746
+E07000226,Crawley,-8,Does not apply,0
+E07000226,Crawley,0,Owned: Owns outright,10940
+E07000226,Crawley,1,Owned: Owns with a mortgage or loan or shared ownership,14982
+E07000226,Crawley,2,Social rented: Rents from council or Local Authority,7969
+E07000226,Crawley,3,Social rented: Other social rented,2463
+E07000226,Crawley,4,Private rented: Private landlord or letting agency,8352
+E07000226,Crawley,5,Private rented: Other private rented or lives rent free,795
+E07000227,Horsham,-8,Does not apply,0
+E07000227,Horsham,0,Owned: Owns outright,24482
+E07000227,Horsham,1,Owned: Owns with a mortgage or loan or shared ownership,21655
+E07000227,Horsham,2,Social rented: Rents from council or Local Authority,775
+E07000227,Horsham,3,Social rented: Other social rented,6380
+E07000227,Horsham,4,Private rented: Private landlord or letting agency,7795
+E07000227,Horsham,5,Private rented: Other private rented or lives rent free,1283
+E07000228,Mid Sussex,-8,Does not apply,0
+E07000228,Mid Sussex,0,Owned: Owns outright,23259
+E07000228,Mid Sussex,1,Owned: Owns with a mortgage or loan or shared ownership,23564
+E07000228,Mid Sussex,2,Social rented: Rents from council or Local Authority,460
+E07000228,Mid Sussex,3,Social rented: Other social rented,6352
+E07000228,Mid Sussex,4,Private rented: Private landlord or letting agency,8568
+E07000228,Mid Sussex,5,Private rented: Other private rented or lives rent free,1146
+E07000229,Worthing,-8,Does not apply,0
+E07000229,Worthing,0,Owned: Owns outright,18052
+E07000229,Worthing,1,Owned: Owns with a mortgage or loan or shared ownership,15710
+E07000229,Worthing,2,Social rented: Rents from council or Local Authority,1051
+E07000229,Worthing,3,Social rented: Other social rented,3794
+E07000229,Worthing,4,Private rented: Private landlord or letting agency,10012
+E07000229,Worthing,5,Private rented: Other private rented or lives rent free,919
+E07000234,Bromsgrove,-8,Does not apply,0
+E07000234,Bromsgrove,0,Owned: Owns outright,17483
+E07000234,Bromsgrove,1,Owned: Owns with a mortgage or loan or shared ownership,14969
+E07000234,Bromsgrove,2,Social rented: Rents from council or Local Authority,1452
+E07000234,Bromsgrove,3,Social rented: Other social rented,2965
+E07000234,Bromsgrove,4,Private rented: Private landlord or letting agency,3719
+E07000234,Bromsgrove,5,Private rented: Other private rented or lives rent free,676
+E07000235,Malvern Hills,-8,Does not apply,0
+E07000235,Malvern Hills,0,Owned: Owns outright,15753
+E07000235,Malvern Hills,1,Owned: Owns with a mortgage or loan or shared ownership,9474
+E07000235,Malvern Hills,2,Social rented: Rents from council or Local Authority,753
+E07000235,Malvern Hills,3,Social rented: Other social rented,4248
+E07000235,Malvern Hills,4,Private rented: Private landlord or letting agency,3896
+E07000235,Malvern Hills,5,Private rented: Other private rented or lives rent free,768
+E07000236,Redditch,-8,Does not apply,0
+E07000236,Redditch,0,Owned: Owns outright,11254
+E07000236,Redditch,1,Owned: Owns with a mortgage or loan or shared ownership,12475
+E07000236,Redditch,2,Social rented: Rents from council or Local Authority,5281
+E07000236,Redditch,3,Social rented: Other social rented,2050
+E07000236,Redditch,4,Private rented: Private landlord or letting agency,4718
+E07000236,Redditch,5,Private rented: Other private rented or lives rent free,600
+E07000237,Worcester,-8,Does not apply,0
+E07000237,Worcester,0,Owned: Owns outright,14320
+E07000237,Worcester,1,Owned: Owns with a mortgage or loan or shared ownership,13612
+E07000237,Worcester,2,Social rented: Rents from council or Local Authority,2155
+E07000237,Worcester,3,Social rented: Other social rented,5114
+E07000237,Worcester,4,Private rented: Private landlord or letting agency,8593
+E07000237,Worcester,5,Private rented: Other private rented or lives rent free,926
+E07000238,Wychavon,-8,Does not apply,0
+E07000238,Wychavon,0,Owned: Owns outright,23188
+E07000238,Wychavon,1,Owned: Owns with a mortgage or loan or shared ownership,17705
+E07000238,Wychavon,2,Social rented: Rents from council or Local Authority,1478
+E07000238,Wychavon,3,Social rented: Other social rented,7476
+E07000238,Wychavon,4,Private rented: Private landlord or letting agency,6337
+E07000238,Wychavon,5,Private rented: Other private rented or lives rent free,1172
+E07000239,Wyre Forest,-8,Does not apply,0
+E07000239,Wyre Forest,0,Owned: Owns outright,18477
+E07000239,Wyre Forest,1,Owned: Owns with a mortgage or loan or shared ownership,13145
+E07000239,Wyre Forest,2,Social rented: Rents from council or Local Authority,2946
+E07000239,Wyre Forest,3,Social rented: Other social rented,3465
+E07000239,Wyre Forest,4,Private rented: Private landlord or letting agency,6366
+E07000239,Wyre Forest,5,Private rented: Other private rented or lives rent free,921
+E07000240,St Albans,-8,Does not apply,0
+E07000240,St Albans,0,Owned: Owns outright,20615
+E07000240,St Albans,1,Owned: Owns with a mortgage or loan or shared ownership,21534
+E07000240,St Albans,2,Social rented: Rents from council or Local Authority,4620
+E07000240,St Albans,3,Social rented: Other social rented,2567
+E07000240,St Albans,4,Private rented: Private landlord or letting agency,8703
+E07000240,St Albans,5,Private rented: Other private rented or lives rent free,949
+E07000241,Welwyn Hatfield,-8,Does not apply,0
+E07000241,Welwyn Hatfield,0,Owned: Owns outright,12711
+E07000241,Welwyn Hatfield,1,Owned: Owns with a mortgage or loan or shared ownership,14112
+E07000241,Welwyn Hatfield,2,Social rented: Rents from council or Local Authority,8354
+E07000241,Welwyn Hatfield,3,Social rented: Other social rented,3360
+E07000241,Welwyn Hatfield,4,Private rented: Private landlord or letting agency,6954
+E07000241,Welwyn Hatfield,5,Private rented: Other private rented or lives rent free,719
+E07000242,East Hertfordshire,-8,Does not apply,0
+E07000242,East Hertfordshire,0,Owned: Owns outright,21140
+E07000242,East Hertfordshire,1,Owned: Owns with a mortgage or loan or shared ownership,22786
+E07000242,East Hertfordshire,2,Social rented: Rents from council or Local Authority,1041
+E07000242,East Hertfordshire,3,Social rented: Other social rented,7070
+E07000242,East Hertfordshire,4,Private rented: Private landlord or letting agency,8910
+E07000242,East Hertfordshire,5,Private rented: Other private rented or lives rent free,1077
+E07000243,Stevenage,-8,Does not apply,0
+E07000243,Stevenage,0,Owned: Owns outright,9522
+E07000243,Stevenage,1,Owned: Owns with a mortgage or loan or shared ownership,11902
+E07000243,Stevenage,2,Social rented: Rents from council or Local Authority,7457
+E07000243,Stevenage,3,Social rented: Other social rented,2137
+E07000243,Stevenage,4,Private rented: Private landlord or letting agency,4996
+E07000243,Stevenage,5,Private rented: Other private rented or lives rent free,500
+E07000244,East Suffolk,-8,Does not apply,0
+E07000244,East Suffolk,0,Owned: Owns outright,49014
+E07000244,East Suffolk,1,Owned: Owns with a mortgage or loan or shared ownership,27712
+E07000244,East Suffolk,2,Social rented: Rents from council or Local Authority,5093
+E07000244,East Suffolk,3,Social rented: Other social rented,9384
+E07000244,East Suffolk,4,Private rented: Private landlord or letting agency,16953
+E07000244,East Suffolk,5,Private rented: Other private rented or lives rent free,2594
+E07000245,West Suffolk,-8,Does not apply,0
+E07000245,West Suffolk,0,Owned: Owns outright,26398
+E07000245,West Suffolk,1,Owned: Owns with a mortgage or loan or shared ownership,21933
+E07000245,West Suffolk,2,Social rented: Rents from council or Local Authority,3962
+E07000245,West Suffolk,3,Social rented: Other social rented,8773
+E07000245,West Suffolk,4,Private rented: Private landlord or letting agency,15003
+E07000245,West Suffolk,5,Private rented: Other private rented or lives rent free,2678
+E07000246,Somerset West and Taunton,-8,Does not apply,0
+E07000246,Somerset West and Taunton,0,Owned: Owns outright,27731
+E07000246,Somerset West and Taunton,1,Owned: Owns with a mortgage or loan or shared ownership,18685
+E07000246,Somerset West and Taunton,2,Social rented: Rents from council or Local Authority,5568
+E07000246,Somerset West and Taunton,3,Social rented: Other social rented,5047
+E07000246,Somerset West and Taunton,4,Private rented: Private landlord or letting agency,11118
+E07000246,Somerset West and Taunton,5,Private rented: Other private rented or lives rent free,1839
+E08000001,Bolton,-8,Does not apply,0
+E08000001,Bolton,0,Owned: Owns outright,39475
+E08000001,Bolton,1,Owned: Owns with a mortgage or loan or shared ownership,34101
+E08000001,Bolton,2,Social rented: Rents from council or Local Authority,12540
+E08000001,Bolton,3,Social rented: Other social rented,11015
+E08000001,Bolton,4,Private rented: Private landlord or letting agency,18776
+E08000001,Bolton,5,Private rented: Other private rented or lives rent free,2883
+E08000002,Bury,-8,Does not apply,0
+E08000002,Bury,0,Owned: Owns outright,27752
+E08000002,Bury,1,Owned: Owns with a mortgage or loan or shared ownership,26532
+E08000002,Bury,2,Social rented: Rents from council or Local Authority,6718
+E08000002,Bury,3,Social rented: Other social rented,5326
+E08000002,Bury,4,Private rented: Private landlord or letting agency,12628
+E08000002,Bury,5,Private rented: Other private rented or lives rent free,1739
+E08000003,Manchester,-8,Does not apply,0
+E08000003,Manchester,0,Owned: Owns outright,35423
+E08000003,Manchester,1,Owned: Owns with a mortgage or loan or shared ownership,46183
+E08000003,Manchester,2,Social rented: Rents from council or Local Authority,24419
+E08000003,Manchester,3,Social rented: Other social rented,38857
+E08000003,Manchester,4,Private rented: Private landlord or letting agency,65041
+E08000003,Manchester,5,Private rented: Other private rented or lives rent free,4809
+E08000004,Oldham,-8,Does not apply,0
+E08000004,Oldham,0,Owned: Owns outright,29384
+E08000004,Oldham,1,Owned: Owns with a mortgage or loan or shared ownership,27257
+E08000004,Oldham,2,Social rented: Rents from council or Local Authority,7572
+E08000004,Oldham,3,Social rented: Other social rented,12188
+E08000004,Oldham,4,Private rented: Private landlord or letting agency,14253
+E08000004,Oldham,5,Private rented: Other private rented or lives rent free,2486
+E08000005,Rochdale,-8,Does not apply,0
+E08000005,Rochdale,0,Owned: Owns outright,27411
+E08000005,Rochdale,1,Owned: Owns with a mortgage or loan or shared ownership,27308
+E08000005,Rochdale,2,Social rented: Rents from council or Local Authority,9972
+E08000005,Rochdale,3,Social rented: Other social rented,8843
+E08000005,Rochdale,4,Private rented: Private landlord or letting agency,14535
+E08000005,Rochdale,5,Private rented: Other private rented or lives rent free,2153
+E08000006,Salford,-8,Does not apply,0
+E08000006,Salford,0,Owned: Owns outright,25294
+E08000006,Salford,1,Owned: Owns with a mortgage or loan or shared ownership,29420
+E08000006,Salford,2,Social rented: Rents from council or Local Authority,13599
+E08000006,Salford,3,Social rented: Other social rented,15628
+E08000006,Salford,4,Private rented: Private landlord or letting agency,28651
+E08000006,Salford,5,Private rented: Other private rented or lives rent free,2524
+E08000007,Stockport,-8,Does not apply,0
+E08000007,Stockport,0,Owned: Owns outright,46498
+E08000007,Stockport,1,Owned: Owns with a mortgage or loan or shared ownership,45013
+E08000007,Stockport,2,Social rented: Rents from council or Local Authority,9880
+E08000007,Stockport,3,Social rented: Other social rented,6969
+E08000007,Stockport,4,Private rented: Private landlord or letting agency,16238
+E08000007,Stockport,5,Private rented: Other private rented or lives rent free,2050
+E08000008,Tameside,-8,Does not apply,0
+E08000008,Tameside,0,Owned: Owns outright,30363
+E08000008,Tameside,1,Owned: Owns with a mortgage or loan or shared ownership,30478
+E08000008,Tameside,2,Social rented: Rents from council or Local Authority,5556
+E08000008,Tameside,3,Social rented: Other social rented,15569
+E08000008,Tameside,4,Private rented: Private landlord or letting agency,15489
+E08000008,Tameside,5,Private rented: Other private rented or lives rent free,2072
+E08000009,Trafford,-8,Does not apply,0
+E08000009,Trafford,0,Owned: Owns outright,33149
+E08000009,Trafford,1,Owned: Owns with a mortgage or loan or shared ownership,33892
+E08000009,Trafford,2,Social rented: Rents from council or Local Authority,4065
+E08000009,Trafford,3,Social rented: Other social rented,10354
+E08000009,Trafford,4,Private rented: Private landlord or letting agency,13254
+E08000009,Trafford,5,Private rented: Other private rented or lives rent free,1555
+E08000010,Wigan,-8,Does not apply,0
+E08000010,Wigan,0,Owned: Owns outright,49212
+E08000010,Wigan,1,Owned: Owns with a mortgage or loan or shared ownership,46421
+E08000010,Wigan,2,Social rented: Rents from council or Local Authority,20083
+E08000010,Wigan,3,Social rented: Other social rented,4250
+E08000010,Wigan,4,Private rented: Private landlord or letting agency,20040
+E08000010,Wigan,5,Private rented: Other private rented or lives rent free,3099
+E08000011,Knowsley,-8,Does not apply,0
+E08000011,Knowsley,0,Owned: Owns outright,18902
+E08000011,Knowsley,1,Owned: Owns with a mortgage or loan or shared ownership,20927
+E08000011,Knowsley,2,Social rented: Rents from council or Local Authority,7109
+E08000011,Knowsley,3,Social rented: Other social rented,9578
+E08000011,Knowsley,4,Private rented: Private landlord or letting agency,8366
+E08000011,Knowsley,5,Private rented: Other private rented or lives rent free,1191
+E08000012,Liverpool,-8,Does not apply,0
+E08000012,Liverpool,0,Owned: Owns outright,50393
+E08000012,Liverpool,1,Owned: Owns with a mortgage or loan or shared ownership,48026
+E08000012,Liverpool,2,Social rented: Rents from council or Local Authority,9355
+E08000012,Liverpool,3,Social rented: Other social rented,45403
+E08000012,Liverpool,4,Private rented: Private landlord or letting agency,49950
+E08000012,Liverpool,5,Private rented: Other private rented or lives rent free,4364
+E08000013,St. Helens,-8,Does not apply,0
+E08000013,St. Helens,0,Owned: Owns outright,28023
+E08000013,St. Helens,1,Owned: Owns with a mortgage or loan or shared ownership,24651
+E08000013,St. Helens,2,Social rented: Rents from council or Local Authority,5030
+E08000013,St. Helens,3,Social rented: Other social rented,10963
+E08000013,St. Helens,4,Private rented: Private landlord or letting agency,10785
+E08000013,St. Helens,5,Private rented: Other private rented or lives rent free,1559
+E08000014,Sefton,-8,Does not apply,0
+E08000014,Sefton,0,Owned: Owns outright,46426
+E08000014,Sefton,1,Owned: Owns with a mortgage or loan or shared ownership,36410
+E08000014,Sefton,2,Social rented: Rents from council or Local Authority,4159
+E08000014,Sefton,3,Social rented: Other social rented,13576
+E08000014,Sefton,4,Private rented: Private landlord or letting agency,20029
+E08000014,Sefton,5,Private rented: Other private rented or lives rent free,2473
+E08000015,Wirral,-8,Does not apply,0
+E08000015,Wirral,0,Owned: Owns outright,51333
+E08000015,Wirral,1,Owned: Owns with a mortgage or loan or shared ownership,42668
+E08000015,Wirral,2,Social rented: Rents from council or Local Authority,5611
+E08000015,Wirral,3,Social rented: Other social rented,16454
+E08000015,Wirral,4,Private rented: Private landlord or letting agency,24397
+E08000015,Wirral,5,Private rented: Other private rented or lives rent free,2788
+E08000016,Barnsley,-8,Does not apply,0
+E08000016,Barnsley,0,Owned: Owns outright,35620
+E08000016,Barnsley,1,Owned: Owns with a mortgage or loan or shared ownership,32255
+E08000016,Barnsley,2,Social rented: Rents from council or Local Authority,16772
+E08000016,Barnsley,3,Social rented: Other social rented,4522
+E08000016,Barnsley,4,Private rented: Private landlord or letting agency,16296
+E08000016,Barnsley,5,Private rented: Other private rented or lives rent free,2588
+E08000017,Doncaster,-8,Does not apply,0
+E08000017,Doncaster,0,Owned: Owns outright,44881
+E08000017,Doncaster,1,Owned: Owns with a mortgage or loan or shared ownership,39565
+E08000017,Doncaster,2,Social rented: Rents from council or Local Authority,18396
+E08000017,Doncaster,3,Social rented: Other social rented,4298
+E08000017,Doncaster,4,Private rented: Private landlord or letting agency,22953
+E08000017,Doncaster,5,Private rented: Other private rented or lives rent free,3387
+E08000018,Rotherham,-8,Does not apply,0
+E08000018,Rotherham,0,Owned: Owns outright,38318
+E08000018,Rotherham,1,Owned: Owns with a mortgage or loan or shared ownership,34645
+E08000018,Rotherham,2,Social rented: Rents from council or Local Authority,18981
+E08000018,Rotherham,3,Social rented: Other social rented,4564
+E08000018,Rotherham,4,Private rented: Private landlord or letting agency,14651
+E08000018,Rotherham,5,Private rented: Other private rented or lives rent free,2767
+E08000019,Sheffield,-8,Does not apply,0
+E08000019,Sheffield,0,Owned: Owns outright,71903
+E08000019,Sheffield,1,Owned: Owns with a mortgage or loan or shared ownership,64049
+E08000019,Sheffield,2,Social rented: Rents from council or Local Authority,36110
+E08000019,Sheffield,3,Social rented: Other social rented,16224
+E08000019,Sheffield,4,Private rented: Private landlord or letting agency,38976
+E08000019,Sheffield,5,Private rented: Other private rented or lives rent free,4688
+E08000021,Newcastle upon Tyne,-8,Does not apply,0
+E08000021,Newcastle upon Tyne,0,Owned: Owns outright,30707
+E08000021,Newcastle upon Tyne,1,Owned: Owns with a mortgage or loan or shared ownership,30349
+E08000021,Newcastle upon Tyne,2,Social rented: Rents from council or Local Authority,24431
+E08000021,Newcastle upon Tyne,3,Social rented: Other social rented,9045
+E08000021,Newcastle upon Tyne,4,Private rented: Private landlord or letting agency,25300
+E08000021,Newcastle upon Tyne,5,Private rented: Other private rented or lives rent free,2965
+E08000022,North Tyneside,-8,Does not apply,0
+E08000022,North Tyneside,0,Owned: Owns outright,31038
+E08000022,North Tyneside,1,Owned: Owns with a mortgage or loan or shared ownership,30737
+E08000022,North Tyneside,2,Social rented: Rents from council or Local Authority,14069
+E08000022,North Tyneside,3,Social rented: Other social rented,5696
+E08000022,North Tyneside,4,Private rented: Private landlord or letting agency,12755
+E08000022,North Tyneside,5,Private rented: Other private rented or lives rent free,1937
+E08000023,South Tyneside,-8,Does not apply,0
+E08000023,South Tyneside,0,Owned: Owns outright,20503
+E08000023,South Tyneside,1,Owned: Owns with a mortgage or loan or shared ownership,18487
+E08000023,South Tyneside,2,Social rented: Rents from council or Local Authority,15720
+E08000023,South Tyneside,3,Social rented: Other social rented,4488
+E08000023,South Tyneside,4,Private rented: Private landlord or letting agency,7742
+E08000023,South Tyneside,5,Private rented: Other private rented or lives rent free,1347
+E08000024,Sunderland,-8,Does not apply,0
+E08000024,Sunderland,0,Owned: Owns outright,38312
+E08000024,Sunderland,1,Owned: Owns with a mortgage or loan or shared ownership,33164
+E08000024,Sunderland,2,Social rented: Rents from council or Local Authority,13760
+E08000024,Sunderland,3,Social rented: Other social rented,18794
+E08000024,Sunderland,4,Private rented: Private landlord or letting agency,15827
+E08000024,Sunderland,5,Private rented: Other private rented or lives rent free,2320
+E08000025,Birmingham,-8,Does not apply,0
+E08000025,Birmingham,0,Owned: Owns outright,114970
+E08000025,Birmingham,1,Owned: Owns with a mortgage or loan or shared ownership,111687
+E08000025,Birmingham,2,Social rented: Rents from council or Local Authority,58609
+E08000025,Birmingham,3,Social rented: Other social rented,40890
+E08000025,Birmingham,4,Private rented: Private landlord or letting agency,86669
+E08000025,Birmingham,5,Private rented: Other private rented or lives rent free,10631
+E08000026,Coventry,-8,Does not apply,0
+E08000026,Coventry,0,Owned: Owns outright,40278
+E08000026,Coventry,1,Owned: Owns with a mortgage or loan or shared ownership,37690
+E08000026,Coventry,2,Social rented: Rents from council or Local Authority,7244
+E08000026,Coventry,3,Social rented: Other social rented,15522
+E08000026,Coventry,4,Private rented: Private landlord or letting agency,30134
+E08000026,Coventry,5,Private rented: Other private rented or lives rent free,3272
+E08000027,Dudley,-8,Does not apply,0
+E08000027,Dudley,0,Owned: Owns outright,51133
+E08000027,Dudley,1,Owned: Owns with a mortgage or loan or shared ownership,40538
+E08000027,Dudley,2,Social rented: Rents from council or Local Authority,21157
+E08000027,Dudley,3,Social rented: Other social rented,4864
+E08000027,Dudley,4,Private rented: Private landlord or letting agency,16644
+E08000027,Dudley,5,Private rented: Other private rented or lives rent free,2733
+E08000028,Sandwell,-8,Does not apply,0
+E08000028,Sandwell,0,Owned: Owns outright,35924
+E08000028,Sandwell,1,Owned: Owns with a mortgage or loan or shared ownership,34711
+E08000028,Sandwell,2,Social rented: Rents from council or Local Authority,27293
+E08000028,Sandwell,3,Social rented: Other social rented,7319
+E08000028,Sandwell,4,Private rented: Private landlord or letting agency,21710
+E08000028,Sandwell,5,Private rented: Other private rented or lives rent free,3289
+E08000029,Solihull,-8,Does not apply,0
+E08000029,Solihull,0,Owned: Owns outright,35054
+E08000029,Solihull,1,Owned: Owns with a mortgage or loan or shared ownership,30295
+E08000029,Solihull,2,Social rented: Rents from council or Local Authority,8901
+E08000029,Solihull,3,Social rented: Other social rented,3631
+E08000029,Solihull,4,Private rented: Private landlord or letting agency,10249
+E08000029,Solihull,5,Private rented: Other private rented or lives rent free,1354
+E08000030,Walsall,-8,Does not apply,0
+E08000030,Walsall,0,Owned: Owns outright,36296
+E08000030,Walsall,1,Owned: Owns with a mortgage or loan or shared ownership,30850
+E08000030,Walsall,2,Social rented: Rents from council or Local Authority,9241
+E08000030,Walsall,3,Social rented: Other social rented,17335
+E08000030,Walsall,4,Private rented: Private landlord or letting agency,16323
+E08000030,Walsall,5,Private rented: Other private rented or lives rent free,2181
+E08000031,Wolverhampton,-8,Does not apply,0
+E08000031,Wolverhampton,0,Owned: Owns outright,31345
+E08000031,Wolverhampton,1,Owned: Owns with a mortgage or loan or shared ownership,26911
+E08000031,Wolverhampton,2,Social rented: Rents from council or Local Authority,19761
+E08000031,Wolverhampton,3,Social rented: Other social rented,6723
+E08000031,Wolverhampton,4,Private rented: Private landlord or letting agency,17922
+E08000031,Wolverhampton,5,Private rented: Other private rented or lives rent free,2479
+E08000032,Bradford,-8,Does not apply,0
+E08000032,Bradford,0,Owned: Owns outright,66875
+E08000032,Bradford,1,Owned: Owns with a mortgage or loan or shared ownership,63741
+E08000032,Bradford,2,Social rented: Rents from council or Local Authority,11798
+E08000032,Bradford,3,Social rented: Other social rented,18933
+E08000032,Bradford,4,Private rented: Private landlord or letting agency,42709
+E08000032,Bradford,5,Private rented: Other private rented or lives rent free,5811
+E08000033,Calderdale,-8,Does not apply,0
+E08000033,Calderdale,0,Owned: Owns outright,31269
+E08000033,Calderdale,1,Owned: Owns with a mortgage or loan or shared ownership,27536
+E08000033,Calderdale,2,Social rented: Rents from council or Local Authority,3793
+E08000033,Calderdale,3,Social rented: Other social rented,9377
+E08000033,Calderdale,4,Private rented: Private landlord or letting agency,16210
+E08000033,Calderdale,5,Private rented: Other private rented or lives rent free,2291
+E08000034,Kirklees,-8,Does not apply,0
+E08000034,Kirklees,0,Owned: Owns outright,62352
+E08000034,Kirklees,1,Owned: Owns with a mortgage or loan or shared ownership,54932
+E08000034,Kirklees,2,Social rented: Rents from council or Local Authority,19678
+E08000034,Kirklees,3,Social rented: Other social rented,6610
+E08000034,Kirklees,4,Private rented: Private landlord or letting agency,29858
+E08000034,Kirklees,5,Private rented: Other private rented or lives rent free,4559
+E08000035,Leeds,-8,Does not apply,0
+E08000035,Leeds,0,Owned: Owns outright,95452
+E08000035,Leeds,1,Owned: Owns with a mortgage or loan or shared ownership,101079
+E08000035,Leeds,2,Social rented: Rents from council or Local Authority,51716
+E08000035,Leeds,3,Social rented: Other social rented,18026
+E08000035,Leeds,4,Private rented: Private landlord or letting agency,68197
+E08000035,Leeds,5,Private rented: Other private rented or lives rent free,6996
+E08000036,Wakefield,-8,Does not apply,0
+E08000036,Wakefield,0,Owned: Owns outright,48566
+E08000036,Wakefield,1,Owned: Owns with a mortgage or loan or shared ownership,48460
+E08000036,Wakefield,2,Social rented: Rents from council or Local Authority,22323
+E08000036,Wakefield,3,Social rented: Other social rented,10865
+E08000036,Wakefield,4,Private rented: Private landlord or letting agency,19969
+E08000036,Wakefield,5,Private rented: Other private rented or lives rent free,2892
+E08000037,Gateshead,-8,Does not apply,0
+E08000037,Gateshead,0,Owned: Owns outright,27161
+E08000037,Gateshead,1,Owned: Owns with a mortgage or loan or shared ownership,24798
+E08000037,Gateshead,2,Social rented: Rents from council or Local Authority,17308
+E08000037,Gateshead,3,Social rented: Other social rented,5026
+E08000037,Gateshead,4,Private rented: Private landlord or letting agency,12920
+E08000037,Gateshead,5,Private rented: Other private rented or lives rent free,1786
+E09000001,City of London,-8,Does not apply,0
+E09000001,City of London,0,Owned: Owns outright,1114
+E09000001,City of London,1,Owned: Owns with a mortgage or loan or shared ownership,692
+E09000001,City of London,2,Social rented: Rents from council or Local Authority,449
+E09000001,City of London,3,Social rented: Other social rented,281
+E09000001,City of London,4,Private rented: Private landlord or letting agency,2064
+E09000001,City of London,5,Private rented: Other private rented or lives rent free,314
+E09000002,Barking and Dagenham,-8,Does not apply,0
+E09000002,Barking and Dagenham,0,Owned: Owns outright,11130
+E09000002,Barking and Dagenham,1,Owned: Owns with a mortgage or loan or shared ownership,21463
+E09000002,Barking and Dagenham,2,Social rented: Rents from council or Local Authority,18077
+E09000002,Barking and Dagenham,3,Social rented: Other social rented,5196
+E09000002,Barking and Dagenham,4,Private rented: Private landlord or letting agency,16443
+E09000002,Barking and Dagenham,5,Private rented: Other private rented or lives rent free,1593
+E09000003,Barnet,-8,Does not apply,0
+E09000003,Barnet,0,Owned: Owns outright,39083
+E09000003,Barnet,1,Owned: Owns with a mortgage or loan or shared ownership,40957
+E09000003,Barnet,2,Social rented: Rents from council or Local Authority,10030
+E09000003,Barnet,3,Social rented: Other social rented,10004
+E09000003,Barnet,4,Private rented: Private landlord or letting agency,45180
+E09000003,Barnet,5,Private rented: Other private rented or lives rent free,3663
+E09000004,Bexley,-8,Does not apply,0
+E09000004,Bexley,0,Owned: Owns outright,31210
+E09000004,Bexley,1,Owned: Owns with a mortgage or loan or shared ownership,35470
+E09000004,Bexley,2,Social rented: Rents from council or Local Authority,2491
+E09000004,Bexley,3,Social rented: Other social rented,11486
+E09000004,Bexley,4,Private rented: Private landlord or letting agency,13078
+E09000004,Bexley,5,Private rented: Other private rented or lives rent free,1565
+E09000005,Brent,-8,Does not apply,0
+E09000005,Brent,0,Owned: Owns outright,23933
+E09000005,Brent,1,Owned: Owns with a mortgage or loan or shared ownership,23904
+E09000005,Brent,2,Social rented: Rents from council or Local Authority,10444
+E09000005,Brent,3,Social rented: Other social rented,17432
+E09000005,Brent,4,Private rented: Private landlord or letting agency,39732
+E09000005,Brent,5,Private rented: Other private rented or lives rent free,3165
+E09000006,Bromley,-8,Does not apply,0
+E09000006,Bromley,0,Owned: Owns outright,44794
+E09000006,Bromley,1,Owned: Owns with a mortgage or loan or shared ownership,49400
+E09000006,Bromley,2,Social rented: Rents from council or Local Authority,2090
+E09000006,Bromley,3,Social rented: Other social rented,15836
+E09000006,Bromley,4,Private rented: Private landlord or letting agency,21418
+E09000006,Bromley,5,Private rented: Other private rented or lives rent free,2290
+E09000007,Camden,-8,Does not apply,0
+E09000007,Camden,0,Owned: Owns outright,14780
+E09000007,Camden,1,Owned: Owns with a mortgage or loan or shared ownership,13442
+E09000007,Camden,2,Social rented: Rents from council or Local Authority,21051
+E09000007,Camden,3,Social rented: Other social rented,10199
+E09000007,Camden,4,Private rented: Private landlord or letting agency,30382
+E09000007,Camden,5,Private rented: Other private rented or lives rent free,2904
+E09000008,Croydon,-8,Does not apply,0
+E09000008,Croydon,0,Owned: Owns outright,36992
+E09000008,Croydon,1,Owned: Owns with a mortgage or loan or shared ownership,48860
+E09000008,Croydon,2,Social rented: Rents from council or Local Authority,14769
+E09000008,Croydon,3,Social rented: Other social rented,12602
+E09000008,Croydon,4,Private rented: Private landlord or letting agency,36484
+E09000008,Croydon,5,Private rented: Other private rented or lives rent free,3240
+E09000009,Ealing,-8,Does not apply,0
+E09000009,Ealing,0,Owned: Owns outright,30275
+E09000009,Ealing,1,Owned: Owns with a mortgage or loan or shared ownership,34197
+E09000009,Ealing,2,Social rented: Rents from council or Local Authority,11326
+E09000009,Ealing,3,Social rented: Other social rented,12056
+E09000009,Ealing,4,Private rented: Private landlord or letting agency,42063
+E09000009,Ealing,5,Private rented: Other private rented or lives rent free,3742
+E09000010,Enfield,-8,Does not apply,0
+E09000010,Enfield,0,Owned: Owns outright,31740
+E09000010,Enfield,1,Owned: Owns with a mortgage or loan or shared ownership,32926
+E09000010,Enfield,2,Social rented: Rents from council or Local Authority,12530
+E09000010,Enfield,3,Social rented: Other social rented,8043
+E09000010,Enfield,4,Private rented: Private landlord or letting agency,32773
+E09000010,Enfield,5,Private rented: Other private rented or lives rent free,2909
+E09000011,Greenwich,-8,Does not apply,0
+E09000011,Greenwich,0,Owned: Owns outright,18473
+E09000011,Greenwich,1,Owned: Owns with a mortgage or loan or shared ownership,30926
+E09000011,Greenwich,2,Social rented: Rents from council or Local Authority,21257
+E09000011,Greenwich,3,Social rented: Other social rented,14070
+E09000011,Greenwich,4,Private rented: Private landlord or letting agency,26863
+E09000011,Greenwich,5,Private rented: Other private rented or lives rent free,2464
+E09000012,Hackney,-8,Does not apply,0
+E09000012,Hackney,0,Owned: Owns outright,10263
+E09000012,Hackney,1,Owned: Owns with a mortgage or loan or shared ownership,18467
+E09000012,Hackney,2,Social rented: Rents from council or Local Authority,21943
+E09000012,Hackney,3,Social rented: Other social rented,21002
+E09000012,Hackney,4,Private rented: Private landlord or letting agency,31943
+E09000012,Hackney,5,Private rented: Other private rented or lives rent free,2463
+E09000013,Hammersmith and Fulham,-8,Does not apply,0
+E09000013,Hammersmith and Fulham,0,Owned: Owns outright,12483
+E09000013,Hammersmith and Fulham,1,Owned: Owns with a mortgage or loan or shared ownership,14816
+E09000013,Hammersmith and Fulham,2,Social rented: Rents from council or Local Authority,11840
+E09000013,Hammersmith and Fulham,3,Social rented: Other social rented,12391
+E09000013,Hammersmith and Fulham,4,Private rented: Private landlord or letting agency,27284
+E09000013,Hammersmith and Fulham,5,Private rented: Other private rented or lives rent free,2431
+E09000014,Haringey,-8,Does not apply,0
+E09000014,Haringey,0,Owned: Owns outright,18141
+E09000014,Haringey,1,Owned: Owns with a mortgage or loan or shared ownership,22707
+E09000014,Haringey,2,Social rented: Rents from council or Local Authority,15630
+E09000014,Haringey,3,Social rented: Other social rented,10844
+E09000014,Haringey,4,Private rented: Private landlord or letting agency,35052
+E09000014,Haringey,5,Private rented: Other private rented or lives rent free,2718
+E09000015,Harrow,-8,Does not apply,0
+E09000015,Harrow,0,Owned: Owns outright,26947
+E09000015,Harrow,1,Owned: Owns with a mortgage or loan or shared ownership,26750
+E09000015,Harrow,2,Social rented: Rents from council or Local Authority,4977
+E09000015,Harrow,3,Social rented: Other social rented,4321
+E09000015,Harrow,4,Private rented: Private landlord or letting agency,24354
+E09000015,Harrow,5,Private rented: Other private rented or lives rent free,2293
+E09000016,Havering,-8,Does not apply,0
+E09000016,Havering,0,Owned: Owns outright,34918
+E09000016,Havering,1,Owned: Owns with a mortgage or loan or shared ownership,36437
+E09000016,Havering,2,Social rented: Rents from council or Local Authority,9423
+E09000016,Havering,3,Social rented: Other social rented,4384
+E09000016,Havering,4,Private rented: Private landlord or letting agency,14452
+E09000016,Havering,5,Private rented: Other private rented or lives rent free,1663
+E09000017,Hillingdon,-8,Does not apply,0
+E09000017,Hillingdon,0,Owned: Owns outright,28994
+E09000017,Hillingdon,1,Owned: Owns with a mortgage or loan or shared ownership,34210
+E09000017,Hillingdon,2,Social rented: Rents from council or Local Authority,10179
+E09000017,Hillingdon,3,Social rented: Other social rented,7434
+E09000017,Hillingdon,4,Private rented: Private landlord or letting agency,25692
+E09000017,Hillingdon,5,Private rented: Other private rented or lives rent free,2719
+E09000018,Hounslow,-8,Does not apply,0
+E09000018,Hounslow,0,Owned: Owns outright,21761
+E09000018,Hounslow,1,Owned: Owns with a mortgage or loan or shared ownership,27508
+E09000018,Hounslow,2,Social rented: Rents from council or Local Authority,13251
+E09000018,Hounslow,3,Social rented: Other social rented,8367
+E09000018,Hounslow,4,Private rented: Private landlord or letting agency,29537
+E09000018,Hounslow,5,Private rented: Other private rented or lives rent free,2537
+E09000019,Islington,-8,Does not apply,0
+E09000019,Islington,0,Owned: Owns outright,11151
+E09000019,Islington,1,Owned: Owns with a mortgage or loan or shared ownership,16169
+E09000019,Islington,2,Social rented: Rents from council or Local Authority,24081
+E09000019,Islington,3,Social rented: Other social rented,14706
+E09000019,Islington,4,Private rented: Private landlord or letting agency,28084
+E09000019,Islington,5,Private rented: Other private rented or lives rent free,2305
+E09000020,Kensington and Chelsea,-8,Does not apply,0
+E09000020,Kensington and Chelsea,0,Owned: Owns outright,13301
+E09000020,Kensington and Chelsea,1,Owned: Owns with a mortgage or loan or shared ownership,8566
+E09000020,Kensington and Chelsea,2,Social rented: Rents from council or Local Authority,7154
+E09000020,Kensington and Chelsea,3,Social rented: Other social rented,11276
+E09000020,Kensington and Chelsea,4,Private rented: Private landlord or letting agency,23560
+E09000020,Kensington and Chelsea,5,Private rented: Other private rented or lives rent free,3027
+E09000021,Kingston upon Thames,-8,Does not apply,0
+E09000021,Kingston upon Thames,0,Owned: Owns outright,18519
+E09000021,Kingston upon Thames,1,Owned: Owns with a mortgage or loan or shared ownership,21878
+E09000021,Kingston upon Thames,2,Social rented: Rents from council or Local Authority,4647
+E09000021,Kingston upon Thames,3,Social rented: Other social rented,2597
+E09000021,Kingston upon Thames,4,Private rented: Private landlord or letting agency,16535
+E09000021,Kingston upon Thames,5,Private rented: Other private rented or lives rent free,1452
+E09000022,Lambeth,-8,Does not apply,0
+E09000022,Lambeth,0,Owned: Owns outright,16180
+E09000022,Lambeth,1,Owned: Owns with a mortgage or loan or shared ownership,30730
+E09000022,Lambeth,2,Social rented: Rents from council or Local Authority,24126
+E09000022,Lambeth,3,Social rented: Other social rented,21117
+E09000022,Lambeth,4,Private rented: Private landlord or letting agency,39228
+E09000022,Lambeth,5,Private rented: Other private rented or lives rent free,3307
+E09000023,Lewisham,-8,Does not apply,0
+E09000023,Lewisham,0,Owned: Owns outright,18853
+E09000023,Lewisham,1,Owned: Owns with a mortgage or loan or shared ownership,34323
+E09000023,Lewisham,2,Social rented: Rents from council or Local Authority,16045
+E09000023,Lewisham,3,Social rented: Other social rented,19708
+E09000023,Lewisham,4,Private rented: Private landlord or letting agency,30797
+E09000023,Lewisham,5,Private rented: Other private rented or lives rent free,2667
+E09000024,Merton,-8,Does not apply,0
+E09000024,Merton,0,Owned: Owns outright,20695
+E09000024,Merton,1,Owned: Owns with a mortgage or loan or shared ownership,25642
+E09000024,Merton,2,Social rented: Rents from council or Local Authority,2342
+E09000024,Merton,3,Social rented: Other social rented,9257
+E09000024,Merton,4,Private rented: Private landlord or letting agency,21998
+E09000024,Merton,5,Private rented: Other private rented or lives rent free,1792
+E09000025,Newham,-8,Does not apply,0
+E09000025,Newham,0,Owned: Owns outright,14695
+E09000025,Newham,1,Owned: Owns with a mortgage or loan or shared ownership,23620
+E09000025,Newham,2,Social rented: Rents from council or Local Authority,17989
+E09000025,Newham,3,Social rented: Other social rented,14401
+E09000025,Newham,4,Private rented: Private landlord or letting agency,41391
+E09000025,Newham,5,Private rented: Other private rented or lives rent free,3411
+E09000026,Redbridge,-8,Does not apply,0
+E09000026,Redbridge,0,Owned: Owns outright,27956
+E09000026,Redbridge,1,Owned: Owns with a mortgage or loan or shared ownership,32247
+E09000026,Redbridge,2,Social rented: Rents from council or Local Authority,6604
+E09000026,Redbridge,3,Social rented: Other social rented,5103
+E09000026,Redbridge,4,Private rented: Private landlord or letting agency,29079
+E09000026,Redbridge,5,Private rented: Other private rented or lives rent free,2724
+E09000027,Richmond upon Thames,-8,Does not apply,0
+E09000027,Richmond upon Thames,0,Owned: Owns outright,24535
+E09000027,Richmond upon Thames,1,Owned: Owns with a mortgage or loan or shared ownership,26386
+E09000027,Richmond upon Thames,2,Social rented: Rents from council or Local Authority,1829
+E09000027,Richmond upon Thames,3,Social rented: Other social rented,7923
+E09000027,Richmond upon Thames,4,Private rented: Private landlord or letting agency,18393
+E09000027,Richmond upon Thames,5,Private rented: Other private rented or lives rent free,1639
+E09000028,Southwark,-8,Does not apply,0
+E09000028,Southwark,0,Owned: Owns outright,13879
+E09000028,Southwark,1,Owned: Owns with a mortgage or loan or shared ownership,27052
+E09000028,Southwark,2,Social rented: Rents from council or Local Authority,35433
+E09000028,Southwark,3,Social rented: Other social rented,16558
+E09000028,Southwark,4,Private rented: Private landlord or letting agency,34493
+E09000028,Southwark,5,Private rented: Other private rented or lives rent free,3405
+E09000029,Sutton,-8,Does not apply,0
+E09000029,Sutton,0,Owned: Owns outright,23400
+E09000029,Sutton,1,Owned: Owns with a mortgage or loan or shared ownership,30536
+E09000029,Sutton,2,Social rented: Rents from council or Local Authority,5399
+E09000029,Sutton,3,Social rented: Other social rented,6268
+E09000029,Sutton,4,Private rented: Private landlord or letting agency,15372
+E09000029,Sutton,5,Private rented: Other private rented or lives rent free,1373
+E09000030,Tower Hamlets,-8,Does not apply,0
+E09000030,Tower Hamlets,0,Owned: Owns outright,9424
+E09000030,Tower Hamlets,1,Owned: Owns with a mortgage or loan or shared ownership,21602
+E09000030,Tower Hamlets,2,Social rented: Rents from council or Local Authority,16697
+E09000030,Tower Hamlets,3,Social rented: Other social rented,26540
+E09000030,Tower Hamlets,4,Private rented: Private landlord or letting agency,43126
+E09000030,Tower Hamlets,5,Private rented: Other private rented or lives rent free,3150
+E09000031,Waltham Forest,-8,Does not apply,0
+E09000031,Waltham Forest,0,Owned: Owns outright,20817
+E09000031,Waltham Forest,1,Owned: Owns with a mortgage or loan or shared ownership,31239
+E09000031,Waltham Forest,2,Social rented: Rents from council or Local Authority,10737
+E09000031,Waltham Forest,3,Social rented: Other social rented,11362
+E09000031,Waltham Forest,4,Private rented: Private landlord or letting agency,26361
+E09000031,Waltham Forest,5,Private rented: Other private rented or lives rent free,2385
+E09000032,Wandsworth,-8,Does not apply,0
+E09000032,Wandsworth,0,Owned: Owns outright,24410
+E09000032,Wandsworth,1,Owned: Owns with a mortgage or loan or shared ownership,36424
+E09000032,Wandsworth,2,Social rented: Rents from council or Local Authority,16653
+E09000032,Wandsworth,3,Social rented: Other social rented,9891
+E09000032,Wandsworth,4,Private rented: Private landlord or letting agency,46295
+E09000032,Wandsworth,5,Private rented: Other private rented or lives rent free,3720
+E09000033,Westminster,-8,Does not apply,0
+E09000033,Westminster,0,Owned: Owns outright,15213
+E09000033,Westminster,1,Owned: Owns with a mortgage or loan or shared ownership,11444
+E09000033,Westminster,2,Social rented: Rents from council or Local Authority,12418
+E09000033,Westminster,3,Social rented: Other social rented,14392
+E09000033,Westminster,4,Private rented: Private landlord or letting agency,36871
+E09000033,Westminster,5,Private rented: Other private rented or lives rent free,4478
+W06000001,Isle of Anglesey,-8,Does not apply,0
+W06000001,Isle of Anglesey,0,Owned: Owns outright,13756
+W06000001,Isle of Anglesey,1,Owned: Owns with a mortgage or loan or shared ownership,7349
+W06000001,Isle of Anglesey,2,Social rented: Rents from council or Local Authority,3783
+W06000001,Isle of Anglesey,3,Social rented: Other social rented,1037
+W06000001,Isle of Anglesey,4,Private rented: Private landlord or letting agency,3735
+W06000001,Isle of Anglesey,5,Private rented: Other private rented or lives rent free,1162
+W06000002,Gwynedd,-8,Does not apply,0
+W06000002,Gwynedd,0,Owned: Owns outright,22214
+W06000002,Gwynedd,1,Owned: Owns with a mortgage or loan or shared ownership,11364
+W06000002,Gwynedd,2,Social rented: Rents from council or Local Authority,3524
+W06000002,Gwynedd,3,Social rented: Other social rented,5033
+W06000002,Gwynedd,4,Private rented: Private landlord or letting agency,7060
+W06000002,Gwynedd,5,Private rented: Other private rented or lives rent free,1910
+W06000003,Conwy,-8,Does not apply,0
+W06000003,Conwy,0,Owned: Owns outright,22759
+W06000003,Conwy,1,Owned: Owns with a mortgage or loan or shared ownership,13258
+W06000003,Conwy,2,Social rented: Rents from council or Local Authority,2051
+W06000003,Conwy,3,Social rented: Other social rented,4206
+W06000003,Conwy,4,Private rented: Private landlord or letting agency,8526
+W06000003,Conwy,5,Private rented: Other private rented or lives rent free,1434
+W06000004,Denbighshire,-8,Does not apply,0
+W06000004,Denbighshire,0,Owned: Owns outright,16828
+W06000004,Denbighshire,1,Owned: Owns with a mortgage or loan or shared ownership,11346
+W06000004,Denbighshire,2,Social rented: Rents from council or Local Authority,3298
+W06000004,Denbighshire,3,Social rented: Other social rented,2350
+W06000004,Denbighshire,4,Private rented: Private landlord or letting agency,7295
+W06000004,Denbighshire,5,Private rented: Other private rented or lives rent free,1270
+W06000005,Flintshire,-8,Does not apply,0
+W06000005,Flintshire,0,Owned: Owns outright,25945
+W06000005,Flintshire,1,Owned: Owns with a mortgage or loan or shared ownership,22381
+W06000005,Flintshire,2,Social rented: Rents from council or Local Authority,6985
+W06000005,Flintshire,3,Social rented: Other social rented,2729
+W06000005,Flintshire,4,Private rented: Private landlord or letting agency,7544
+W06000005,Flintshire,5,Private rented: Other private rented or lives rent free,1327
+W06000006,Wrexham,-8,Does not apply,0
+W06000006,Wrexham,0,Owned: Owns outright,19947
+W06000006,Wrexham,1,Owned: Owns with a mortgage or loan or shared ownership,16453
+W06000006,Wrexham,2,Social rented: Rents from council or Local Authority,9958
+W06000006,Wrexham,3,Social rented: Other social rented,2203
+W06000006,Wrexham,4,Private rented: Private landlord or letting agency,7890
+W06000006,Wrexham,5,Private rented: Other private rented or lives rent free,1464
+W06000008,Ceredigion,-8,Does not apply,0
+W06000008,Ceredigion,0,Owned: Owns outright,14798
+W06000008,Ceredigion,1,Owned: Owns with a mortgage or loan or shared ownership,6474
+W06000008,Ceredigion,2,Social rented: Rents from council or Local Authority,752
+W06000008,Ceredigion,3,Social rented: Other social rented,2487
+W06000008,Ceredigion,4,Private rented: Private landlord or letting agency,5294
+W06000008,Ceredigion,5,Private rented: Other private rented or lives rent free,1086
+W06000009,Pembrokeshire,-8,Does not apply,0
+W06000009,Pembrokeshire,0,Owned: Owns outright,24647
+W06000009,Pembrokeshire,1,Owned: Owns with a mortgage or loan or shared ownership,12697
+W06000009,Pembrokeshire,2,Social rented: Rents from council or Local Authority,5691
+W06000009,Pembrokeshire,3,Social rented: Other social rented,3303
+W06000009,Pembrokeshire,4,Private rented: Private landlord or letting agency,7277
+W06000009,Pembrokeshire,5,Private rented: Other private rented or lives rent free,1872
+W06000010,Carmarthenshire,-8,Does not apply,0
+W06000010,Carmarthenshire,0,Owned: Owns outright,35629
+W06000010,Carmarthenshire,1,Owned: Owns with a mortgage or loan or shared ownership,22145
+W06000010,Carmarthenshire,2,Social rented: Rents from council or Local Authority,8540
+W06000010,Carmarthenshire,3,Social rented: Other social rented,3158
+W06000010,Carmarthenshire,4,Private rented: Private landlord or letting agency,10048
+W06000010,Carmarthenshire,5,Private rented: Other private rented or lives rent free,2239
+W06000011,Swansea,-8,Does not apply,0
+W06000011,Swansea,0,Owned: Owns outright,37162
+W06000011,Swansea,1,Owned: Owns with a mortgage or loan or shared ownership,28539
+W06000011,Swansea,2,Social rented: Rents from council or Local Authority,12257
+W06000011,Swansea,3,Social rented: Other social rented,7788
+W06000011,Swansea,4,Private rented: Private landlord or letting agency,16417
+W06000011,Swansea,5,Private rented: Other private rented or lives rent free,2799
+W06000012,Neath Port Talbot,-8,Does not apply,0
+W06000012,Neath Port Talbot,0,Owned: Owns outright,23850
+W06000012,Neath Port Talbot,1,Owned: Owns with a mortgage or loan or shared ownership,17760
+W06000012,Neath Port Talbot,2,Social rented: Rents from council or Local Authority,4657
+W06000012,Neath Port Talbot,3,Social rented: Other social rented,7342
+W06000012,Neath Port Talbot,4,Private rented: Private landlord or letting agency,7014
+W06000012,Neath Port Talbot,5,Private rented: Other private rented or lives rent free,1753
+W06000013,Bridgend,-8,Does not apply,0
+W06000013,Bridgend,0,Owned: Owns outright,23670
+W06000013,Bridgend,1,Owned: Owns with a mortgage or loan or shared ownership,20427
+W06000013,Bridgend,2,Social rented: Rents from council or Local Authority,2087
+W06000013,Bridgend,3,Social rented: Other social rented,6587
+W06000013,Bridgend,4,Private rented: Private landlord or letting agency,8128
+W06000013,Bridgend,5,Private rented: Other private rented or lives rent free,1461
+W06000014,Vale of Glamorgan,-8,Does not apply,0
+W06000014,Vale of Glamorgan,0,Owned: Owns outright,22052
+W06000014,Vale of Glamorgan,1,Owned: Owns with a mortgage or loan or shared ownership,19366
+W06000014,Vale of Glamorgan,2,Social rented: Rents from council or Local Authority,3660
+W06000014,Vale of Glamorgan,3,Social rented: Other social rented,3363
+W06000014,Vale of Glamorgan,4,Private rented: Private landlord or letting agency,7474
+W06000014,Vale of Glamorgan,5,Private rented: Other private rented or lives rent free,1534
+W06000015,Cardiff,-8,Does not apply,0
+W06000015,Cardiff,0,Owned: Owns outright,42072
+W06000015,Cardiff,1,Owned: Owns with a mortgage or loan or shared ownership,43795
+W06000015,Cardiff,2,Social rented: Rents from council or Local Authority,12883
+W06000015,Cardiff,3,Social rented: Other social rented,12395
+W06000015,Cardiff,4,Private rented: Private landlord or letting agency,32757
+W06000015,Cardiff,5,Private rented: Other private rented or lives rent free,3432
+W06000016,Rhondda Cynon Taf,-8,Does not apply,0
+W06000016,Rhondda Cynon Taf,0,Owned: Owns outright,39686
+W06000016,Rhondda Cynon Taf,1,Owned: Owns with a mortgage or loan or shared ownership,31116
+W06000016,Rhondda Cynon Taf,2,Social rented: Rents from council or Local Authority,5744
+W06000016,Rhondda Cynon Taf,3,Social rented: Other social rented,8431
+W06000016,Rhondda Cynon Taf,4,Private rented: Private landlord or letting agency,15671
+W06000016,Rhondda Cynon Taf,5,Private rented: Other private rented or lives rent free,2691
+W06000018,Caerphilly,-8,Does not apply,0
+W06000018,Caerphilly,0,Owned: Owns outright,27449
+W06000018,Caerphilly,1,Owned: Owns with a mortgage or loan or shared ownership,24281
+W06000018,Caerphilly,2,Social rented: Rents from council or Local Authority,10065
+W06000018,Caerphilly,3,Social rented: Other social rented,4258
+W06000018,Caerphilly,4,Private rented: Private landlord or letting agency,8598
+W06000018,Caerphilly,5,Private rented: Other private rented or lives rent free,1604
+W06000019,Blaenau Gwent,-8,Does not apply,0
+W06000019,Blaenau Gwent,0,Owned: Owns outright,10564
+W06000019,Blaenau Gwent,1,Owned: Owns with a mortgage or loan or shared ownership,7694
+W06000019,Blaenau Gwent,2,Social rented: Rents from council or Local Authority,2776
+W06000019,Blaenau Gwent,3,Social rented: Other social rented,4418
+W06000019,Blaenau Gwent,4,Private rented: Private landlord or letting agency,4160
+W06000019,Blaenau Gwent,5,Private rented: Other private rented or lives rent free,728
+W06000020,Torfaen,-8,Does not apply,0
+W06000020,Torfaen,0,Owned: Owns outright,13952
+W06000020,Torfaen,1,Owned: Owns with a mortgage or loan or shared ownership,12186
+W06000020,Torfaen,2,Social rented: Rents from council or Local Authority,3324
+W06000020,Torfaen,3,Social rented: Other social rented,6251
+W06000020,Torfaen,4,Private rented: Private landlord or letting agency,3701
+W06000020,Torfaen,5,Private rented: Other private rented or lives rent free,827
+W06000021,Monmouthshire,-8,Does not apply,0
+W06000021,Monmouthshire,0,Owned: Owns outright,17738
+W06000021,Monmouthshire,1,Owned: Owns with a mortgage or loan or shared ownership,11837
+W06000021,Monmouthshire,2,Social rented: Rents from council or Local Authority,1493
+W06000021,Monmouthshire,3,Social rented: Other social rented,4250
+W06000021,Monmouthshire,4,Private rented: Private landlord or letting agency,4674
+W06000021,Monmouthshire,5,Private rented: Other private rented or lives rent free,929
+W06000022,Newport,-8,Does not apply,0
+W06000022,Newport,0,Owned: Owns outright,20172
+W06000022,Newport,1,Owned: Owns with a mortgage or loan or shared ownership,21861
+W06000022,Newport,2,Social rented: Rents from council or Local Authority,5648
+W06000022,Newport,3,Social rented: Other social rented,7216
+W06000022,Newport,4,Private rented: Private landlord or letting agency,9663
+W06000022,Newport,5,Private rented: Other private rented or lives rent free,1494
+W06000023,Powys,-8,Does not apply,0
+W06000023,Powys,0,Owned: Owns outright,28098
+W06000023,Powys,1,Owned: Owns with a mortgage or loan or shared ownership,12737
+W06000023,Powys,2,Social rented: Rents from council or Local Authority,5294
+W06000023,Powys,3,Social rented: Other social rented,3187
+W06000023,Powys,4,Private rented: Private landlord or letting agency,8592
+W06000023,Powys,5,Private rented: Other private rented or lives rent free,2274
+W06000024,Merthyr Tydfil,-8,Does not apply,0
+W06000024,Merthyr Tydfil,0,Owned: Owns outright,9101
+W06000024,Merthyr Tydfil,1,Owned: Owns with a mortgage or loan or shared ownership,7045
+W06000024,Merthyr Tydfil,2,Social rented: Rents from council or Local Authority,2168
+W06000024,Merthyr Tydfil,3,Social rented: Other social rented,3458
+W06000024,Merthyr Tydfil,4,Private rented: Private landlord or letting agency,3325
+W06000024,Merthyr Tydfil,5,Private rented: Other private rented or lives rent free,687
